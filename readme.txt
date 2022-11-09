@@ -1,0 +1,5 @@
+该服务是实现jt808位置解析服务，并将位置解析发送至mq
+tcp端口为20049，消息主题为locationTopic 消息队列ip等具体配置在com.jt.server.mq.LocationProduct
+mq等消息端口为默认端口
+9876：nameserver中的端口,链接nameserver就靠这个端口
+10911:listenPort参数是broker的监听端口号，是remotingServer服务组件使用，作为对Producer和Consumer提供服务的端口号，默认为10911，可以通过配置文件修改。

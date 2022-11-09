@@ -1,0 +1,486 @@
+2022-11-02 13:57:02,481 [NettyClientSelector_1] INFO  RocketmqRemoting [Slf4jLoggerFactory.java : 95] - closeChannel: close the connection to remote address[127.0.0.1:9876] result: true
+2022-11-03 15:11:29,401 [TCPServer] DEBUG i.n.u.i.l.InternalLoggerFactory [InternalLoggerFactory.java : 45] - Using SLF4J as the default logging framework
+2022-11-03 15:11:29,433 [TCPServer] DEBUG i.n.c.MultithreadEventLoopGroup [MultithreadEventLoopGroup.java : 44] - -Dio.netty.eventLoopThreads: 24
+2022-11-03 15:11:29,492 [TCPServer] DEBUG i.n.u.i.InternalThreadLocalMap [InternalThreadLocalMap.java : 56] - -Dio.netty.threadLocalMap.stringBuilder.initialSize: 1024
+2022-11-03 15:11:29,493 [TCPServer] DEBUG i.n.u.i.InternalThreadLocalMap [InternalThreadLocalMap.java : 59] - -Dio.netty.threadLocalMap.stringBuilder.maxSize: 4096
+2022-11-03 15:11:29,507 [TCPServer] DEBUG io.netty.channel.nio.NioEventLoop [NioEventLoop.java : 106] - -Dio.netty.noKeySetOptimization: false
+2022-11-03 15:11:29,508 [TCPServer] DEBUG io.netty.channel.nio.NioEventLoop [NioEventLoop.java : 107] - -Dio.netty.selectorAutoRebuildThreshold: 512
+2022-11-03 15:11:29,523 [TCPServer] DEBUG i.n.util.internal.PlatformDependent [PlatformDependent.java : 1028] - Platform: Windows
+2022-11-03 15:11:29,525 [TCPServer] DEBUG i.n.util.internal.PlatformDependent0 [PlatformDependent0.java : 417] - -Dio.netty.noUnsafe: false
+2022-11-03 15:11:29,526 [TCPServer] DEBUG i.n.util.internal.PlatformDependent0 [PlatformDependent0.java : 889] - Java version: 8
+2022-11-03 15:11:29,527 [TCPServer] DEBUG i.n.util.internal.PlatformDependent0 [PlatformDependent0.java : 130] - sun.misc.Unsafe.theUnsafe: available
+2022-11-03 15:11:29,528 [TCPServer] DEBUG i.n.util.internal.PlatformDependent0 [PlatformDependent0.java : 154] - sun.misc.Unsafe.copyMemory: available
+2022-11-03 15:11:29,529 [TCPServer] DEBUG i.n.util.internal.PlatformDependent0 [PlatformDependent0.java : 192] - java.nio.Buffer.address: available
+2022-11-03 15:11:29,530 [TCPServer] DEBUG i.n.util.internal.PlatformDependent0 [PlatformDependent0.java : 257] - direct buffer constructor: available
+2022-11-03 15:11:29,531 [TCPServer] DEBUG i.n.util.internal.PlatformDependent0 [PlatformDependent0.java : 331] - java.nio.Bits.unaligned: available, true
+2022-11-03 15:11:29,531 [TCPServer] DEBUG i.n.util.internal.PlatformDependent0 [PlatformDependent0.java : 396] - jdk.internal.misc.Unsafe.allocateUninitializedArray(int): unavailable prior to Java9
+2022-11-03 15:11:29,531 [TCPServer] DEBUG i.n.util.internal.PlatformDependent0 [PlatformDependent0.java : 403] - java.nio.DirectByteBuffer.<init>(long, int): available
+2022-11-03 15:11:29,531 [TCPServer] DEBUG i.n.util.internal.PlatformDependent [PlatformDependent.java : 1071] - sun.misc.Unsafe: available
+2022-11-03 15:11:29,532 [TCPServer] DEBUG i.n.util.internal.PlatformDependent [PlatformDependent.java : 1192] - -Dio.netty.tmpdir: C:\Users\JIALIZ~1\AppData\Local\Temp (java.io.tmpdir)
+2022-11-03 15:11:29,532 [TCPServer] DEBUG i.n.util.internal.PlatformDependent [PlatformDependent.java : 1271] - -Dio.netty.bitMode: 64 (sun.arch.data.model)
+2022-11-03 15:11:29,534 [TCPServer] DEBUG i.n.util.internal.PlatformDependent [PlatformDependent.java : 177] - -Dio.netty.maxDirectMemory: 7572291584 bytes
+2022-11-03 15:11:29,535 [TCPServer] DEBUG i.n.util.internal.PlatformDependent [PlatformDependent.java : 184] - -Dio.netty.uninitializedArrayAllocationThreshold: -1
+2022-11-03 15:11:29,537 [TCPServer] DEBUG io.netty.util.internal.CleanerJava6 [CleanerJava6.java : 92] - java.nio.ByteBuffer.cleaner(): available
+2022-11-03 15:11:29,537 [TCPServer] DEBUG i.n.util.internal.PlatformDependent [PlatformDependent.java : 204] - -Dio.netty.noPreferDirect: false
+2022-11-03 15:11:29,550 [TCPServer] DEBUG i.n.util.internal.PlatformDependent [PlatformDependent.java : 932] - org.jctools-core.MpscChunkedArrayQueue: available
+2022-11-03 15:11:29,637 [TCPServer] TRACE io.netty.channel.nio.NioEventLoop [NioEventLoop.java : 260] - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@7339571e
+2022-11-03 15:11:29,639 [TCPServer] TRACE io.netty.channel.nio.NioEventLoop [NioEventLoop.java : 260] - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@3374bcc
+2022-11-03 15:11:29,640 [TCPServer] TRACE io.netty.channel.nio.NioEventLoop [NioEventLoop.java : 260] - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@2564d5b0
+2022-11-03 15:11:29,641 [TCPServer] TRACE io.netty.channel.nio.NioEventLoop [NioEventLoop.java : 260] - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@4a5c669f
+2022-11-03 15:11:29,642 [TCPServer] TRACE io.netty.channel.nio.NioEventLoop [NioEventLoop.java : 260] - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@5dddfe8b
+2022-11-03 15:11:29,643 [TCPServer] TRACE io.netty.channel.nio.NioEventLoop [NioEventLoop.java : 260] - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@640da7d7
+2022-11-03 15:11:29,643 [TCPServer] TRACE io.netty.channel.nio.NioEventLoop [NioEventLoop.java : 260] - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@674737b3
+2022-11-03 15:11:29,643 [TCPServer] TRACE io.netty.channel.nio.NioEventLoop [NioEventLoop.java : 260] - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@4e06dd5a
+2022-11-03 15:11:29,644 [TCPServer] TRACE io.netty.channel.nio.NioEventLoop [NioEventLoop.java : 260] - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@7c1d4bb7
+2022-11-03 15:11:29,644 [TCPServer] TRACE io.netty.channel.nio.NioEventLoop [NioEventLoop.java : 260] - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@752778fc
+2022-11-03 15:11:29,645 [TCPServer] TRACE io.netty.channel.nio.NioEventLoop [NioEventLoop.java : 260] - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@2b033344
+2022-11-03 15:11:29,645 [TCPServer] TRACE io.netty.channel.nio.NioEventLoop [NioEventLoop.java : 260] - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@5317d773
+2022-11-03 15:11:29,646 [TCPServer] TRACE io.netty.channel.nio.NioEventLoop [NioEventLoop.java : 260] - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@45417e55
+2022-11-03 15:11:29,647 [TCPServer] TRACE io.netty.channel.nio.NioEventLoop [NioEventLoop.java : 260] - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@b6f1e99
+2022-11-03 15:11:29,647 [TCPServer] TRACE io.netty.channel.nio.NioEventLoop [NioEventLoop.java : 260] - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@39c495a3
+2022-11-03 15:11:29,648 [TCPServer] TRACE io.netty.channel.nio.NioEventLoop [NioEventLoop.java : 260] - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@540571a7
+2022-11-03 15:11:29,649 [TCPServer] TRACE io.netty.channel.nio.NioEventLoop [NioEventLoop.java : 260] - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@1a781ea4
+2022-11-03 15:11:29,649 [TCPServer] TRACE io.netty.channel.nio.NioEventLoop [NioEventLoop.java : 260] - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@699040a4
+2022-11-03 15:11:29,650 [TCPServer] TRACE io.netty.channel.nio.NioEventLoop [NioEventLoop.java : 260] - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@74e4b9b8
+2022-11-03 15:11:29,651 [TCPServer] TRACE io.netty.channel.nio.NioEventLoop [NioEventLoop.java : 260] - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@b1366ca
+2022-11-03 15:11:29,652 [TCPServer] TRACE io.netty.channel.nio.NioEventLoop [NioEventLoop.java : 260] - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@51c4c432
+2022-11-03 15:11:29,652 [TCPServer] TRACE io.netty.channel.nio.NioEventLoop [NioEventLoop.java : 260] - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@3a3a2bce
+2022-11-03 15:11:29,653 [TCPServer] TRACE io.netty.channel.nio.NioEventLoop [NioEventLoop.java : 260] - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@6bc26c48
+2022-11-03 15:11:29,653 [TCPServer] TRACE io.netty.channel.nio.NioEventLoop [NioEventLoop.java : 260] - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@7bf772cc
+2022-11-03 15:11:29,656 [TCPServer] TRACE io.netty.channel.nio.NioEventLoop [NioEventLoop.java : 260] - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@355a8d62
+2022-11-03 15:11:29,657 [TCPServer] TRACE io.netty.channel.nio.NioEventLoop [NioEventLoop.java : 260] - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@5fd518f3
+2022-11-03 15:11:29,658 [TCPServer] TRACE io.netty.channel.nio.NioEventLoop [NioEventLoop.java : 260] - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@12121ec9
+2022-11-03 15:11:29,659 [TCPServer] TRACE io.netty.channel.nio.NioEventLoop [NioEventLoop.java : 260] - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@39caaf8d
+2022-11-03 15:11:29,659 [TCPServer] TRACE io.netty.channel.nio.NioEventLoop [NioEventLoop.java : 260] - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@581a144b
+2022-11-03 15:11:29,660 [TCPServer] TRACE io.netty.channel.nio.NioEventLoop [NioEventLoop.java : 260] - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@2fff8d3b
+2022-11-03 15:11:29,661 [TCPServer] TRACE io.netty.channel.nio.NioEventLoop [NioEventLoop.java : 260] - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@2d192a5b
+2022-11-03 15:11:29,661 [TCPServer] TRACE io.netty.channel.nio.NioEventLoop [NioEventLoop.java : 260] - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@41434eb2
+2022-11-03 15:11:29,662 [TCPServer] TRACE io.netty.channel.nio.NioEventLoop [NioEventLoop.java : 260] - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@4973b29d
+2022-11-03 15:11:29,663 [TCPServer] TRACE io.netty.channel.nio.NioEventLoop [NioEventLoop.java : 260] - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@1ab668dd
+2022-11-03 15:11:29,664 [TCPServer] TRACE io.netty.channel.nio.NioEventLoop [NioEventLoop.java : 260] - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@7e99c222
+2022-11-03 15:11:29,664 [TCPServer] TRACE io.netty.channel.nio.NioEventLoop [NioEventLoop.java : 260] - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@25f4359d
+2022-11-03 15:11:29,665 [TCPServer] TRACE io.netty.channel.nio.NioEventLoop [NioEventLoop.java : 260] - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@71479ce4
+2022-11-03 15:11:29,666 [TCPServer] TRACE io.netty.channel.nio.NioEventLoop [NioEventLoop.java : 260] - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@589ef291
+2022-11-03 15:11:29,667 [TCPServer] TRACE io.netty.channel.nio.NioEventLoop [NioEventLoop.java : 260] - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@6826b372
+2022-11-03 15:11:29,668 [TCPServer] TRACE io.netty.channel.nio.NioEventLoop [NioEventLoop.java : 260] - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@6c7a2b36
+2022-11-03 15:11:29,668 [TCPServer] TRACE io.netty.channel.nio.NioEventLoop [NioEventLoop.java : 260] - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@21172ae1
+2022-11-03 15:11:29,669 [TCPServer] TRACE io.netty.channel.nio.NioEventLoop [NioEventLoop.java : 260] - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@e325e28
+2022-11-03 15:11:29,669 [TCPServer] TRACE io.netty.channel.nio.NioEventLoop [NioEventLoop.java : 260] - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@5352c1bf
+2022-11-03 15:11:29,670 [TCPServer] TRACE io.netty.channel.nio.NioEventLoop [NioEventLoop.java : 260] - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@6e4c6378
+2022-11-03 15:11:29,671 [TCPServer] TRACE io.netty.channel.nio.NioEventLoop [NioEventLoop.java : 260] - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@76941c72
+2022-11-03 15:11:29,672 [TCPServer] TRACE io.netty.channel.nio.NioEventLoop [NioEventLoop.java : 260] - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@6acbcf96
+2022-11-03 15:11:29,673 [TCPServer] TRACE io.netty.channel.nio.NioEventLoop [NioEventLoop.java : 260] - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@2fd1b449
+2022-11-03 15:11:29,674 [TCPServer] TRACE io.netty.channel.nio.NioEventLoop [NioEventLoop.java : 260] - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@220b5568
+2022-11-03 15:11:29,719 [TCPServer] DEBUG io.netty.channel.DefaultChannelId [DefaultChannelId.java : 79] - -Dio.netty.processId: 93632 (auto-detected)
+2022-11-03 15:11:29,721 [TCPServer] DEBUG io.netty.util.NetUtil [NetUtil.java : 139] - -Djava.net.preferIPv4Stack: false
+2022-11-03 15:11:29,721 [TCPServer] DEBUG io.netty.util.NetUtil [NetUtil.java : 140] - -Djava.net.preferIPv6Addresses: false
+2022-11-03 15:11:29,754 [TCPServer] DEBUG io.netty.util.NetUtil [NetUtil.java : 224] - Loopback interface: lo (Software Loopback Interface 1, 127.0.0.1)
+2022-11-03 15:11:29,755 [TCPServer] DEBUG io.netty.util.NetUtil [NetUtil.java : 289] - Failed to get SOMAXCONN from sysctl and file \proc\sys\net\core\somaxconn. Default: 200
+2022-11-03 15:11:29,778 [TCPServer] DEBUG io.netty.channel.DefaultChannelId [DefaultChannelId.java : 101] - -Dio.netty.machineId: c0:25:a5:ff:fe:cc:f3:1f (auto-detected)
+2022-11-03 15:11:29,787 [TCPServer] DEBUG io.netty.util.ResourceLeakDetector [ResourceLeakDetector.java : 130] - -Dio.netty.leakDetection.level: simple
+2022-11-03 15:11:29,787 [TCPServer] DEBUG io.netty.util.ResourceLeakDetector [ResourceLeakDetector.java : 131] - -Dio.netty.leakDetection.targetRecords: 4
+2022-11-03 15:11:29,811 [TCPServer] DEBUG i.n.buffer.PooledByteBufAllocator [PooledByteBufAllocator.java : 154] - -Dio.netty.allocator.numHeapArenas: 24
+2022-11-03 15:11:29,811 [TCPServer] DEBUG i.n.buffer.PooledByteBufAllocator [PooledByteBufAllocator.java : 155] - -Dio.netty.allocator.numDirectArenas: 24
+2022-11-03 15:11:29,811 [TCPServer] DEBUG i.n.buffer.PooledByteBufAllocator [PooledByteBufAllocator.java : 157] - -Dio.netty.allocator.pageSize: 8192
+2022-11-03 15:11:29,811 [TCPServer] DEBUG i.n.buffer.PooledByteBufAllocator [PooledByteBufAllocator.java : 162] - -Dio.netty.allocator.maxOrder: 11
+2022-11-03 15:11:29,811 [TCPServer] DEBUG i.n.buffer.PooledByteBufAllocator [PooledByteBufAllocator.java : 166] - -Dio.netty.allocator.chunkSize: 16777216
+2022-11-03 15:11:29,811 [TCPServer] DEBUG i.n.buffer.PooledByteBufAllocator [PooledByteBufAllocator.java : 167] - -Dio.netty.allocator.smallCacheSize: 256
+2022-11-03 15:11:29,812 [TCPServer] DEBUG i.n.buffer.PooledByteBufAllocator [PooledByteBufAllocator.java : 168] - -Dio.netty.allocator.normalCacheSize: 64
+2022-11-03 15:11:29,812 [TCPServer] DEBUG i.n.buffer.PooledByteBufAllocator [PooledByteBufAllocator.java : 169] - -Dio.netty.allocator.maxCachedBufferCapacity: 32768
+2022-11-03 15:11:29,812 [TCPServer] DEBUG i.n.buffer.PooledByteBufAllocator [PooledByteBufAllocator.java : 170] - -Dio.netty.allocator.cacheTrimInterval: 8192
+2022-11-03 15:11:29,812 [TCPServer] DEBUG i.n.buffer.PooledByteBufAllocator [PooledByteBufAllocator.java : 171] - -Dio.netty.allocator.cacheTrimIntervalMillis: 0
+2022-11-03 15:11:29,812 [TCPServer] DEBUG i.n.buffer.PooledByteBufAllocator [PooledByteBufAllocator.java : 172] - -Dio.netty.allocator.useCacheForAllThreads: true
+2022-11-03 15:11:29,812 [TCPServer] DEBUG i.n.buffer.PooledByteBufAllocator [PooledByteBufAllocator.java : 173] - -Dio.netty.allocator.maxCachedByteBuffersPerChunk: 1023
+2022-11-03 15:11:29,821 [TCPServer] DEBUG io.netty.buffer.ByteBufUtil [ByteBufUtil.java : 87] - -Dio.netty.allocator.type: pooled
+2022-11-03 15:11:29,822 [TCPServer] DEBUG io.netty.buffer.ByteBufUtil [ByteBufUtil.java : 96] - -Dio.netty.threadLocalDirectBufferSize: 0
+2022-11-03 15:11:29,822 [TCPServer] DEBUG io.netty.buffer.ByteBufUtil [ByteBufUtil.java : 99] - -Dio.netty.maxThreadLocalCharBufferSize: 16384
+2022-11-03 15:13:00,060 [nioEventLoopGroup-3-1] DEBUG io.netty.buffer.AbstractByteBuf [AbstractByteBuf.java : 63] - -Dio.netty.buffer.checkAccessible: true
+2022-11-03 15:13:00,061 [nioEventLoopGroup-3-1] DEBUG io.netty.buffer.AbstractByteBuf [AbstractByteBuf.java : 64] - -Dio.netty.buffer.checkBounds: true
+2022-11-03 15:13:00,062 [nioEventLoopGroup-3-1] DEBUG i.n.util.ResourceLeakDetectorFactory [ResourceLeakDetectorFactory.java : 196] - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@766af801
+2022-11-03 15:13:00,075 [nioEventLoopGroup-3-1] DEBUG i.n.handler.logging.LoggingHandler [AbstractInternalLogger.java : 145] - [id: 0x6c1ea54c, L:/127.0.0.1:20049 - R:/127.0.0.1:54690] REGISTERED
+2022-11-03 15:13:00,075 [nioEventLoopGroup-3-1] DEBUG i.n.handler.logging.LoggingHandler [AbstractInternalLogger.java : 145] - [id: 0x6c1ea54c, L:/127.0.0.1:20049 - R:/127.0.0.1:54690] ACTIVE
+2022-11-03 15:13:05,932 [nioEventLoopGroup-3-1] DEBUG io.netty.util.Recycler [Recycler.java : 100] - -Dio.netty.recycler.maxCapacityPerThread: 4096
+2022-11-03 15:13:05,932 [nioEventLoopGroup-3-1] DEBUG io.netty.util.Recycler [Recycler.java : 101] - -Dio.netty.recycler.maxSharedCapacityFactor: 2
+2022-11-03 15:13:05,932 [nioEventLoopGroup-3-1] DEBUG io.netty.util.Recycler [Recycler.java : 102] - -Dio.netty.recycler.linkCapacity: 16
+2022-11-03 15:13:05,932 [nioEventLoopGroup-3-1] DEBUG io.netty.util.Recycler [Recycler.java : 103] - -Dio.netty.recycler.ratio: 8
+2022-11-03 15:13:05,932 [nioEventLoopGroup-3-1] DEBUG io.netty.util.Recycler [Recycler.java : 104] - -Dio.netty.recycler.delayedQueue.ratio: 8
+2022-11-03 15:13:05,941 [nioEventLoopGroup-3-1] DEBUG i.n.handler.logging.LoggingHandler [AbstractInternalLogger.java : 145] - [id: 0x6c1ea54c, L:/127.0.0.1:20049 - R:/127.0.0.1:54690] READ: 81B
+         +-------------------------------------------------+
+         |  0  1  2  3  4  5  6  7  8  9  a  b  c  d  e  f |
++--------+-------------------------------------------------+----------------+
+|00000000| 7e 02 00 00 42 01 98 30 02 70 84 01 4b 00 00 00 |~...B..0.p..K...|
+|00000010| 00 00 00 00 02 01 dd 1a 6a 07 32 39 60 00 00 00 |........j.29`...|
+|00000020| 00 01 4a 19 05 16 03 32 45 01 04 00 00 00 00 eb |..J....2E.......|
+|00000030| 1e 00 0c 00 b2 89 86 07 b4 03 18 c1 76 94 83 00 |............v...|
+|00000040| 06 00 89 ff ff ff ff 00 06 00 c5 ff ff ff ff a7 |................|
+|00000050| 7e                                              |~               |
++--------+-------------------------------------------------+----------------+
+2022-11-03 15:13:05,943 [nioEventLoopGroup-3-1] DEBUG i.n.c.ChannelInboundHandlerAdapter [TcpHandler.java : 43] - <<<<< ip:/127.0.0.1:54690,hex:
+2022-11-03 15:13:05,944 [nioEventLoopGroup-3-1] ERROR i.n.c.ChannelInboundHandlerAdapter [TcpHandler.java : 45] - 无可读字节，返回
+2022-11-03 15:13:05,944 [nioEventLoopGroup-3-1] DEBUG i.n.c.ChannelInboundHandlerAdapter [TcpHandler.java : 43] - <<<<< ip:/127.0.0.1:54690,hex:02000042019830027084014b000000000000000201dd1a6a0732396000000000014a190516033245010400000000eb1e000c00b2898607b40318c176948300060089ffffffff000600c5ffffffffa7
+2022-11-03 15:13:05,945 [nioEventLoopGroup-3-1] INFO  i.n.c.ChannelInboundHandlerAdapter [TcpHandler.java : 62] - 消息id：512
+2022-11-03 15:13:05,945 [nioEventLoopGroup-3-1] INFO  i.n.c.ChannelInboundHandlerAdapter [TcpHandler.java : 72] - 消息属性：66
+2022-11-03 15:13:05,945 [nioEventLoopGroup-3-1] INFO  i.n.c.ChannelInboundHandlerAdapter [TcpHandler.java : 74] - 长度：66
+2022-11-03 15:13:05,946 [nioEventLoopGroup-3-1] INFO  i.n.c.ChannelInboundHandlerAdapter [TcpHandler.java : 77] - 加密类型：0
+2022-11-03 15:13:05,946 [nioEventLoopGroup-3-1] INFO  i.n.c.ChannelInboundHandlerAdapter [TcpHandler.java : 80] - 是否有子包：false
+2022-11-03 15:13:05,946 [nioEventLoopGroup-3-1] INFO  i.n.c.ChannelInboundHandlerAdapter [TcpHandler.java : 83] - 保留位：0
+2022-11-03 15:13:05,946 [nioEventLoopGroup-3-1] INFO  i.n.c.ChannelInboundHandlerAdapter [TcpHandler.java : 91] - 2013版本
+2022-11-03 15:13:05,946 [nioEventLoopGroup-3-1] INFO  i.n.c.ChannelInboundHandlerAdapter [TcpHandler.java : 96] - 手机号：019830027084
+2022-11-03 15:13:05,946 [nioEventLoopGroup-3-1] INFO  i.n.c.ChannelInboundHandlerAdapter [TcpHandler.java : 111] - 消息流水号：331
+2022-11-03 15:13:05,946 [nioEventLoopGroup-3-1] INFO  i.n.c.ChannelInboundHandlerAdapter [TcpHandler.java : 124] - 得到消息头：MsgHeader [msgId=512, msgBodyPropsField=66, msgBodyLength=66, encryptionType=0, hasSubPackage=false, reservedBit=0, terminalPhone=019830027084, flowId=331, packageInfoField=0, totalSubPackage=0, subPackageSeq=0]
+2022-11-03 15:13:05,946 [nioEventLoopGroup-3-1] INFO  i.n.c.ChannelInboundHandlerAdapter [TcpHandler.java : 170] - >>>>>[位置信息],phone=019830027084,flowid=331
+2022-11-03 15:13:05,947 [nioEventLoopGroup-3-1] INFO  c.j.s.h.TerminalMsgProcessService [TerminalMsgProcessService.java : 153] - 位置上报信息:LocationInfoUploadMsg [warningFlagField=0, statusField=2, latitude=31.267433, longitude=120.732, elevation=0, speed=0.0, direction=330, time=Thu May 16 03:32:45 CST 2019]
+2022-11-03 15:13:06,061 [nioEventLoopGroup-3-1] TRACE io.netty.channel.nio.NioEventLoop [NioEventLoop.java : 260] - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@7ad0c03f
+2022-11-03 15:13:06,163 [nioEventLoopGroup-3-1] DEBUG i.n.handler.logging.LoggingHandler [AbstractInternalLogger.java : 145] - [id: 0x6c1ea54c, L:/127.0.0.1:20049 - R:/127.0.0.1:54690] WRITE: 20B
+         +-------------------------------------------------+
+         |  0  1  2  3  4  5  6  7  8  9  a  b  c  d  e  f |
++--------+-------------------------------------------------+----------------+
+|00000000| 7e 80 01 00 05 01 98 30 02 70 84 01 4b 01 4b 02 |~......0.p..K.K.|
+|00000010| 00 00 d9 7e                                     |...~            |
++--------+-------------------------------------------------+----------------+
+2022-11-03 15:13:06,163 [nioEventLoopGroup-3-1] DEBUG i.n.handler.logging.LoggingHandler [AbstractInternalLogger.java : 145] - [id: 0x6c1ea54c, L:/127.0.0.1:20049 - R:/127.0.0.1:54690] FLUSH
+2022-11-03 15:13:06,163 [nioEventLoopGroup-3-1] INFO  i.n.c.ChannelInboundHandlerAdapter [TcpHandler.java : 173] - <<<<<[位置信息],phone=019830027084,flowOd=331
+2022-11-03 15:13:06,164 [nioEventLoopGroup-3-1] DEBUG i.n.handler.logging.LoggingHandler [AbstractInternalLogger.java : 145] - [id: 0x6c1ea54c, L:/127.0.0.1:20049 - R:/127.0.0.1:54690] READ COMPLETE
+2022-11-03 15:28:06,840 [nioEventLoopGroup-3-1] DEBUG i.n.handler.logging.LoggingHandler [AbstractInternalLogger.java : 145] - [id: 0x6c1ea54c, L:/127.0.0.1:20049 - R:/127.0.0.1:54690] USER_EVENT: IdleStateEvent(READER_IDLE, first)
+2022-11-03 15:43:06,828 [nioEventLoopGroup-3-1] DEBUG i.n.handler.logging.LoggingHandler [AbstractInternalLogger.java : 145] - [id: 0x6c1ea54c, L:/127.0.0.1:20049 - R:/127.0.0.1:54690] USER_EVENT: IdleStateEvent(READER_IDLE)
+2022-11-03 15:58:06,153 [nioEventLoopGroup-3-1] DEBUG i.n.handler.logging.LoggingHandler [AbstractInternalLogger.java : 145] - [id: 0x6c1ea54c, L:/127.0.0.1:20049 - R:/127.0.0.1:54690] USER_EVENT: IdleStateEvent(READER_IDLE)
+2022-11-03 16:13:06,165 [nioEventLoopGroup-3-1] DEBUG i.n.handler.logging.LoggingHandler [AbstractInternalLogger.java : 145] - [id: 0x6c1ea54c, L:/127.0.0.1:20049 - R:/127.0.0.1:54690] USER_EVENT: IdleStateEvent(READER_IDLE)
+2022-11-03 16:28:06,206 [nioEventLoopGroup-3-1] DEBUG i.n.handler.logging.LoggingHandler [AbstractInternalLogger.java : 145] - [id: 0x6c1ea54c, L:/127.0.0.1:20049 - R:/127.0.0.1:54690] USER_EVENT: IdleStateEvent(READER_IDLE)
+2022-11-03 16:43:06,218 [nioEventLoopGroup-3-1] DEBUG i.n.handler.logging.LoggingHandler [AbstractInternalLogger.java : 145] - [id: 0x6c1ea54c, L:/127.0.0.1:20049 - R:/127.0.0.1:54690] USER_EVENT: IdleStateEvent(READER_IDLE)
+2022-11-03 16:58:06,213 [nioEventLoopGroup-3-1] DEBUG i.n.handler.logging.LoggingHandler [AbstractInternalLogger.java : 145] - [id: 0x6c1ea54c, L:/127.0.0.1:20049 - R:/127.0.0.1:54690] USER_EVENT: IdleStateEvent(READER_IDLE)
+2022-11-03 17:13:06,219 [nioEventLoopGroup-3-1] DEBUG i.n.handler.logging.LoggingHandler [AbstractInternalLogger.java : 145] - [id: 0x6c1ea54c, L:/127.0.0.1:20049 - R:/127.0.0.1:54690] USER_EVENT: IdleStateEvent(READER_IDLE)
+2022-11-03 17:28:06,232 [nioEventLoopGroup-3-1] DEBUG i.n.handler.logging.LoggingHandler [AbstractInternalLogger.java : 145] - [id: 0x6c1ea54c, L:/127.0.0.1:20049 - R:/127.0.0.1:54690] USER_EVENT: IdleStateEvent(READER_IDLE)
+2022-11-03 17:43:06,288 [nioEventLoopGroup-3-1] DEBUG i.n.handler.logging.LoggingHandler [AbstractInternalLogger.java : 145] - [id: 0x6c1ea54c, L:/127.0.0.1:20049 - R:/127.0.0.1:54690] USER_EVENT: IdleStateEvent(READER_IDLE)
+2022-11-03 17:58:06,293 [nioEventLoopGroup-3-1] DEBUG i.n.handler.logging.LoggingHandler [AbstractInternalLogger.java : 145] - [id: 0x6c1ea54c, L:/127.0.0.1:20049 - R:/127.0.0.1:54690] USER_EVENT: IdleStateEvent(READER_IDLE)
+2022-11-03 18:13:06,289 [nioEventLoopGroup-3-1] DEBUG i.n.handler.logging.LoggingHandler [AbstractInternalLogger.java : 145] - [id: 0x6c1ea54c, L:/127.0.0.1:20049 - R:/127.0.0.1:54690] USER_EVENT: IdleStateEvent(READER_IDLE)
+2022-11-03 18:28:06,461 [nioEventLoopGroup-3-1] DEBUG i.n.handler.logging.LoggingHandler [AbstractInternalLogger.java : 145] - [id: 0x6c1ea54c, L:/127.0.0.1:20049 - R:/127.0.0.1:54690] USER_EVENT: IdleStateEvent(READER_IDLE)
+2022-11-03 18:43:06,565 [nioEventLoopGroup-3-1] DEBUG i.n.handler.logging.LoggingHandler [AbstractInternalLogger.java : 145] - [id: 0x6c1ea54c, L:/127.0.0.1:20049 - R:/127.0.0.1:54690] USER_EVENT: IdleStateEvent(READER_IDLE)
+2022-11-03 18:58:06,574 [nioEventLoopGroup-3-1] DEBUG i.n.handler.logging.LoggingHandler [AbstractInternalLogger.java : 145] - [id: 0x6c1ea54c, L:/127.0.0.1:20049 - R:/127.0.0.1:54690] USER_EVENT: IdleStateEvent(READER_IDLE)
+2022-11-03 19:13:06,346 [nioEventLoopGroup-3-1] DEBUG i.n.handler.logging.LoggingHandler [AbstractInternalLogger.java : 145] - [id: 0x6c1ea54c, L:/127.0.0.1:20049 - R:/127.0.0.1:54690] USER_EVENT: IdleStateEvent(READER_IDLE)
+2022-11-03 19:28:06,354 [nioEventLoopGroup-3-1] DEBUG i.n.handler.logging.LoggingHandler [AbstractInternalLogger.java : 145] - [id: 0x6c1ea54c, L:/127.0.0.1:20049 - R:/127.0.0.1:54690] USER_EVENT: IdleStateEvent(READER_IDLE)
+2022-11-03 19:43:06,727 [nioEventLoopGroup-3-1] DEBUG i.n.handler.logging.LoggingHandler [AbstractInternalLogger.java : 145] - [id: 0x6c1ea54c, L:/127.0.0.1:20049 - R:/127.0.0.1:54690] USER_EVENT: IdleStateEvent(READER_IDLE)
+2022-11-03 19:58:06,384 [nioEventLoopGroup-3-1] DEBUG i.n.handler.logging.LoggingHandler [AbstractInternalLogger.java : 145] - [id: 0x6c1ea54c, L:/127.0.0.1:20049 - R:/127.0.0.1:54690] USER_EVENT: IdleStateEvent(READER_IDLE)
+2022-11-03 20:13:06,386 [nioEventLoopGroup-3-1] DEBUG i.n.handler.logging.LoggingHandler [AbstractInternalLogger.java : 145] - [id: 0x6c1ea54c, L:/127.0.0.1:20049 - R:/127.0.0.1:54690] USER_EVENT: IdleStateEvent(READER_IDLE)
+2022-11-03 20:28:06,391 [nioEventLoopGroup-3-1] DEBUG i.n.handler.logging.LoggingHandler [AbstractInternalLogger.java : 145] - [id: 0x6c1ea54c, L:/127.0.0.1:20049 - R:/127.0.0.1:54690] USER_EVENT: IdleStateEvent(READER_IDLE)
+2022-11-03 20:43:06,524 [nioEventLoopGroup-3-1] DEBUG i.n.handler.logging.LoggingHandler [AbstractInternalLogger.java : 145] - [id: 0x6c1ea54c, L:/127.0.0.1:20049 - R:/127.0.0.1:54690] USER_EVENT: IdleStateEvent(READER_IDLE)
+2022-11-03 20:58:06,516 [nioEventLoopGroup-3-1] DEBUG i.n.handler.logging.LoggingHandler [AbstractInternalLogger.java : 145] - [id: 0x6c1ea54c, L:/127.0.0.1:20049 - R:/127.0.0.1:54690] USER_EVENT: IdleStateEvent(READER_IDLE)
+2022-11-03 21:13:06,485 [nioEventLoopGroup-3-1] DEBUG i.n.handler.logging.LoggingHandler [AbstractInternalLogger.java : 145] - [id: 0x6c1ea54c, L:/127.0.0.1:20049 - R:/127.0.0.1:54690] USER_EVENT: IdleStateEvent(READER_IDLE)
+2022-11-03 21:28:06,474 [nioEventLoopGroup-3-1] DEBUG i.n.handler.logging.LoggingHandler [AbstractInternalLogger.java : 145] - [id: 0x6c1ea54c, L:/127.0.0.1:20049 - R:/127.0.0.1:54690] USER_EVENT: IdleStateEvent(READER_IDLE)
+2022-11-03 21:43:06,979 [nioEventLoopGroup-3-1] DEBUG i.n.handler.logging.LoggingHandler [AbstractInternalLogger.java : 145] - [id: 0x6c1ea54c, L:/127.0.0.1:20049 - R:/127.0.0.1:54690] USER_EVENT: IdleStateEvent(READER_IDLE)
+2022-11-03 21:58:06,481 [nioEventLoopGroup-3-1] DEBUG i.n.handler.logging.LoggingHandler [AbstractInternalLogger.java : 145] - [id: 0x6c1ea54c, L:/127.0.0.1:20049 - R:/127.0.0.1:54690] USER_EVENT: IdleStateEvent(READER_IDLE)
+2022-11-03 22:13:06,483 [nioEventLoopGroup-3-1] DEBUG i.n.handler.logging.LoggingHandler [AbstractInternalLogger.java : 145] - [id: 0x6c1ea54c, L:/127.0.0.1:20049 - R:/127.0.0.1:54690] USER_EVENT: IdleStateEvent(READER_IDLE)
+2022-11-03 22:28:06,497 [nioEventLoopGroup-3-1] DEBUG i.n.handler.logging.LoggingHandler [AbstractInternalLogger.java : 145] - [id: 0x6c1ea54c, L:/127.0.0.1:20049 - R:/127.0.0.1:54690] USER_EVENT: IdleStateEvent(READER_IDLE)
+2022-11-03 22:43:06,574 [nioEventLoopGroup-3-1] DEBUG i.n.handler.logging.LoggingHandler [AbstractInternalLogger.java : 145] - [id: 0x6c1ea54c, L:/127.0.0.1:20049 - R:/127.0.0.1:54690] USER_EVENT: IdleStateEvent(READER_IDLE)
+2022-11-03 22:58:06,573 [nioEventLoopGroup-3-1] DEBUG i.n.handler.logging.LoggingHandler [AbstractInternalLogger.java : 145] - [id: 0x6c1ea54c, L:/127.0.0.1:20049 - R:/127.0.0.1:54690] USER_EVENT: IdleStateEvent(READER_IDLE)
+2022-11-03 23:13:06,568 [nioEventLoopGroup-3-1] DEBUG i.n.handler.logging.LoggingHandler [AbstractInternalLogger.java : 145] - [id: 0x6c1ea54c, L:/127.0.0.1:20049 - R:/127.0.0.1:54690] USER_EVENT: IdleStateEvent(READER_IDLE)
+2022-11-03 23:28:06,563 [nioEventLoopGroup-3-1] DEBUG i.n.handler.logging.LoggingHandler [AbstractInternalLogger.java : 145] - [id: 0x6c1ea54c, L:/127.0.0.1:20049 - R:/127.0.0.1:54690] USER_EVENT: IdleStateEvent(READER_IDLE)
+2022-11-03 23:43:06,993 [nioEventLoopGroup-3-1] DEBUG i.n.handler.logging.LoggingHandler [AbstractInternalLogger.java : 145] - [id: 0x6c1ea54c, L:/127.0.0.1:20049 - R:/127.0.0.1:54690] USER_EVENT: IdleStateEvent(READER_IDLE)
+2022-11-03 23:58:06,594 [nioEventLoopGroup-3-1] DEBUG i.n.handler.logging.LoggingHandler [AbstractInternalLogger.java : 145] - [id: 0x6c1ea54c, L:/127.0.0.1:20049 - R:/127.0.0.1:54690] USER_EVENT: IdleStateEvent(READER_IDLE)
+2022-11-04 00:13:06,579 [nioEventLoopGroup-3-1] DEBUG i.n.handler.logging.LoggingHandler [AbstractInternalLogger.java : 145] - [id: 0x6c1ea54c, L:/127.0.0.1:20049 - R:/127.0.0.1:54690] USER_EVENT: IdleStateEvent(READER_IDLE)
+2022-11-04 00:28:06,579 [nioEventLoopGroup-3-1] DEBUG i.n.handler.logging.LoggingHandler [AbstractInternalLogger.java : 145] - [id: 0x6c1ea54c, L:/127.0.0.1:20049 - R:/127.0.0.1:54690] USER_EVENT: IdleStateEvent(READER_IDLE)
+2022-11-04 00:43:08,472 [nioEventLoopGroup-3-1] DEBUG i.n.handler.logging.LoggingHandler [AbstractInternalLogger.java : 145] - [id: 0x6c1ea54c, L:/127.0.0.1:20049 - R:/127.0.0.1:54690] USER_EVENT: IdleStateEvent(READER_IDLE)
+2022-11-04 00:58:06,617 [nioEventLoopGroup-3-1] DEBUG i.n.handler.logging.LoggingHandler [AbstractInternalLogger.java : 145] - [id: 0x6c1ea54c, L:/127.0.0.1:20049 - R:/127.0.0.1:54690] USER_EVENT: IdleStateEvent(READER_IDLE)
+2022-11-04 01:13:06,616 [nioEventLoopGroup-3-1] DEBUG i.n.handler.logging.LoggingHandler [AbstractInternalLogger.java : 145] - [id: 0x6c1ea54c, L:/127.0.0.1:20049 - R:/127.0.0.1:54690] USER_EVENT: IdleStateEvent(READER_IDLE)
+2022-11-04 01:28:06,619 [nioEventLoopGroup-3-1] DEBUG i.n.handler.logging.LoggingHandler [AbstractInternalLogger.java : 145] - [id: 0x6c1ea54c, L:/127.0.0.1:20049 - R:/127.0.0.1:54690] USER_EVENT: IdleStateEvent(READER_IDLE)
+2022-11-04 01:43:07,065 [nioEventLoopGroup-3-1] DEBUG i.n.handler.logging.LoggingHandler [AbstractInternalLogger.java : 145] - [id: 0x6c1ea54c, L:/127.0.0.1:20049 - R:/127.0.0.1:54690] USER_EVENT: IdleStateEvent(READER_IDLE)
+2022-11-04 01:58:06,678 [nioEventLoopGroup-3-1] DEBUG i.n.handler.logging.LoggingHandler [AbstractInternalLogger.java : 145] - [id: 0x6c1ea54c, L:/127.0.0.1:20049 - R:/127.0.0.1:54690] USER_EVENT: IdleStateEvent(READER_IDLE)
+2022-11-04 02:13:06,680 [nioEventLoopGroup-3-1] DEBUG i.n.handler.logging.LoggingHandler [AbstractInternalLogger.java : 145] - [id: 0x6c1ea54c, L:/127.0.0.1:20049 - R:/127.0.0.1:54690] USER_EVENT: IdleStateEvent(READER_IDLE)
+2022-11-04 02:28:06,690 [nioEventLoopGroup-3-1] DEBUG i.n.handler.logging.LoggingHandler [AbstractInternalLogger.java : 145] - [id: 0x6c1ea54c, L:/127.0.0.1:20049 - R:/127.0.0.1:54690] USER_EVENT: IdleStateEvent(READER_IDLE)
+2022-11-04 02:43:06,768 [nioEventLoopGroup-3-1] DEBUG i.n.handler.logging.LoggingHandler [AbstractInternalLogger.java : 145] - [id: 0x6c1ea54c, L:/127.0.0.1:20049 - R:/127.0.0.1:54690] USER_EVENT: IdleStateEvent(READER_IDLE)
+2022-11-04 02:58:06,749 [nioEventLoopGroup-3-1] DEBUG i.n.handler.logging.LoggingHandler [AbstractInternalLogger.java : 145] - [id: 0x6c1ea54c, L:/127.0.0.1:20049 - R:/127.0.0.1:54690] USER_EVENT: IdleStateEvent(READER_IDLE)
+2022-11-04 03:13:06,743 [nioEventLoopGroup-3-1] DEBUG i.n.handler.logging.LoggingHandler [AbstractInternalLogger.java : 145] - [id: 0x6c1ea54c, L:/127.0.0.1:20049 - R:/127.0.0.1:54690] USER_EVENT: IdleStateEvent(READER_IDLE)
+2022-11-04 03:28:06,747 [nioEventLoopGroup-3-1] DEBUG i.n.handler.logging.LoggingHandler [AbstractInternalLogger.java : 145] - [id: 0x6c1ea54c, L:/127.0.0.1:20049 - R:/127.0.0.1:54690] USER_EVENT: IdleStateEvent(READER_IDLE)
+2022-11-04 03:43:06,746 [nioEventLoopGroup-3-1] DEBUG i.n.handler.logging.LoggingHandler [AbstractInternalLogger.java : 145] - [id: 0x6c1ea54c, L:/127.0.0.1:20049 - R:/127.0.0.1:54690] USER_EVENT: IdleStateEvent(READER_IDLE)
+2022-11-04 03:58:06,785 [nioEventLoopGroup-3-1] DEBUG i.n.handler.logging.LoggingHandler [AbstractInternalLogger.java : 145] - [id: 0x6c1ea54c, L:/127.0.0.1:20049 - R:/127.0.0.1:54690] USER_EVENT: IdleStateEvent(READER_IDLE)
+2022-11-04 04:13:06,792 [nioEventLoopGroup-3-1] DEBUG i.n.handler.logging.LoggingHandler [AbstractInternalLogger.java : 145] - [id: 0x6c1ea54c, L:/127.0.0.1:20049 - R:/127.0.0.1:54690] USER_EVENT: IdleStateEvent(READER_IDLE)
+2022-11-04 04:28:06,810 [nioEventLoopGroup-3-1] DEBUG i.n.handler.logging.LoggingHandler [AbstractInternalLogger.java : 145] - [id: 0x6c1ea54c, L:/127.0.0.1:20049 - R:/127.0.0.1:54690] USER_EVENT: IdleStateEvent(READER_IDLE)
+2022-11-04 04:43:06,813 [nioEventLoopGroup-3-1] DEBUG i.n.handler.logging.LoggingHandler [AbstractInternalLogger.java : 145] - [id: 0x6c1ea54c, L:/127.0.0.1:20049 - R:/127.0.0.1:54690] USER_EVENT: IdleStateEvent(READER_IDLE)
+2022-11-04 04:58:06,817 [nioEventLoopGroup-3-1] DEBUG i.n.handler.logging.LoggingHandler [AbstractInternalLogger.java : 145] - [id: 0x6c1ea54c, L:/127.0.0.1:20049 - R:/127.0.0.1:54690] USER_EVENT: IdleStateEvent(READER_IDLE)
+2022-11-04 05:13:06,824 [nioEventLoopGroup-3-1] DEBUG i.n.handler.logging.LoggingHandler [AbstractInternalLogger.java : 145] - [id: 0x6c1ea54c, L:/127.0.0.1:20049 - R:/127.0.0.1:54690] USER_EVENT: IdleStateEvent(READER_IDLE)
+2022-11-04 05:28:06,828 [nioEventLoopGroup-3-1] DEBUG i.n.handler.logging.LoggingHandler [AbstractInternalLogger.java : 145] - [id: 0x6c1ea54c, L:/127.0.0.1:20049 - R:/127.0.0.1:54690] USER_EVENT: IdleStateEvent(READER_IDLE)
+2022-11-04 05:43:06,844 [nioEventLoopGroup-3-1] DEBUG i.n.handler.logging.LoggingHandler [AbstractInternalLogger.java : 145] - [id: 0x6c1ea54c, L:/127.0.0.1:20049 - R:/127.0.0.1:54690] USER_EVENT: IdleStateEvent(READER_IDLE)
+2022-11-04 05:58:06,847 [nioEventLoopGroup-3-1] DEBUG i.n.handler.logging.LoggingHandler [AbstractInternalLogger.java : 145] - [id: 0x6c1ea54c, L:/127.0.0.1:20049 - R:/127.0.0.1:54690] USER_EVENT: IdleStateEvent(READER_IDLE)
+2022-11-04 06:13:06,848 [nioEventLoopGroup-3-1] DEBUG i.n.handler.logging.LoggingHandler [AbstractInternalLogger.java : 145] - [id: 0x6c1ea54c, L:/127.0.0.1:20049 - R:/127.0.0.1:54690] USER_EVENT: IdleStateEvent(READER_IDLE)
+2022-11-04 06:28:06,858 [nioEventLoopGroup-3-1] DEBUG i.n.handler.logging.LoggingHandler [AbstractInternalLogger.java : 145] - [id: 0x6c1ea54c, L:/127.0.0.1:20049 - R:/127.0.0.1:54690] USER_EVENT: IdleStateEvent(READER_IDLE)
+2022-11-04 06:43:06,866 [nioEventLoopGroup-3-1] DEBUG i.n.handler.logging.LoggingHandler [AbstractInternalLogger.java : 145] - [id: 0x6c1ea54c, L:/127.0.0.1:20049 - R:/127.0.0.1:54690] USER_EVENT: IdleStateEvent(READER_IDLE)
+2022-11-04 06:58:06,882 [nioEventLoopGroup-3-1] DEBUG i.n.handler.logging.LoggingHandler [AbstractInternalLogger.java : 145] - [id: 0x6c1ea54c, L:/127.0.0.1:20049 - R:/127.0.0.1:54690] USER_EVENT: IdleStateEvent(READER_IDLE)
+2022-11-04 07:13:06,886 [nioEventLoopGroup-3-1] DEBUG i.n.handler.logging.LoggingHandler [AbstractInternalLogger.java : 145] - [id: 0x6c1ea54c, L:/127.0.0.1:20049 - R:/127.0.0.1:54690] USER_EVENT: IdleStateEvent(READER_IDLE)
+2022-11-04 07:28:06,901 [nioEventLoopGroup-3-1] DEBUG i.n.handler.logging.LoggingHandler [AbstractInternalLogger.java : 145] - [id: 0x6c1ea54c, L:/127.0.0.1:20049 - R:/127.0.0.1:54690] USER_EVENT: IdleStateEvent(READER_IDLE)
+2022-11-04 07:43:06,906 [nioEventLoopGroup-3-1] DEBUG i.n.handler.logging.LoggingHandler [AbstractInternalLogger.java : 145] - [id: 0x6c1ea54c, L:/127.0.0.1:20049 - R:/127.0.0.1:54690] USER_EVENT: IdleStateEvent(READER_IDLE)
+2022-11-04 07:58:06,917 [nioEventLoopGroup-3-1] DEBUG i.n.handler.logging.LoggingHandler [AbstractInternalLogger.java : 145] - [id: 0x6c1ea54c, L:/127.0.0.1:20049 - R:/127.0.0.1:54690] USER_EVENT: IdleStateEvent(READER_IDLE)
+2022-11-04 08:13:06,933 [nioEventLoopGroup-3-1] DEBUG i.n.handler.logging.LoggingHandler [AbstractInternalLogger.java : 145] - [id: 0x6c1ea54c, L:/127.0.0.1:20049 - R:/127.0.0.1:54690] USER_EVENT: IdleStateEvent(READER_IDLE)
+2022-11-04 08:28:06,935 [nioEventLoopGroup-3-1] DEBUG i.n.handler.logging.LoggingHandler [AbstractInternalLogger.java : 145] - [id: 0x6c1ea54c, L:/127.0.0.1:20049 - R:/127.0.0.1:54690] USER_EVENT: IdleStateEvent(READER_IDLE)
+2022-11-04 08:43:06,947 [nioEventLoopGroup-3-1] DEBUG i.n.handler.logging.LoggingHandler [AbstractInternalLogger.java : 145] - [id: 0x6c1ea54c, L:/127.0.0.1:20049 - R:/127.0.0.1:54690] USER_EVENT: IdleStateEvent(READER_IDLE)
+2022-11-04 08:58:06,961 [nioEventLoopGroup-3-1] DEBUG i.n.handler.logging.LoggingHandler [AbstractInternalLogger.java : 145] - [id: 0x6c1ea54c, L:/127.0.0.1:20049 - R:/127.0.0.1:54690] USER_EVENT: IdleStateEvent(READER_IDLE)
+2022-11-04 09:13:06,966 [nioEventLoopGroup-3-1] DEBUG i.n.handler.logging.LoggingHandler [AbstractInternalLogger.java : 145] - [id: 0x6c1ea54c, L:/127.0.0.1:20049 - R:/127.0.0.1:54690] USER_EVENT: IdleStateEvent(READER_IDLE)
+2022-11-04 09:28:06,977 [nioEventLoopGroup-3-1] DEBUG i.n.handler.logging.LoggingHandler [AbstractInternalLogger.java : 145] - [id: 0x6c1ea54c, L:/127.0.0.1:20049 - R:/127.0.0.1:54690] USER_EVENT: IdleStateEvent(READER_IDLE)
+2022-11-04 09:43:06,980 [nioEventLoopGroup-3-1] DEBUG i.n.handler.logging.LoggingHandler [AbstractInternalLogger.java : 145] - [id: 0x6c1ea54c, L:/127.0.0.1:20049 - R:/127.0.0.1:54690] USER_EVENT: IdleStateEvent(READER_IDLE)
+2022-11-04 09:58:06,994 [nioEventLoopGroup-3-1] DEBUG i.n.handler.logging.LoggingHandler [AbstractInternalLogger.java : 145] - [id: 0x6c1ea54c, L:/127.0.0.1:20049 - R:/127.0.0.1:54690] USER_EVENT: IdleStateEvent(READER_IDLE)
+2022-11-04 10:13:42,646 [TCPServer] DEBUG i.n.u.i.l.InternalLoggerFactory [InternalLoggerFactory.java : 45] - Using SLF4J as the default logging framework
+2022-11-04 10:13:42,653 [TCPServer] DEBUG i.n.c.MultithreadEventLoopGroup [MultithreadEventLoopGroup.java : 44] - -Dio.netty.eventLoopThreads: 24
+2022-11-04 10:13:42,700 [TCPServer] DEBUG i.n.u.i.InternalThreadLocalMap [InternalThreadLocalMap.java : 56] - -Dio.netty.threadLocalMap.stringBuilder.initialSize: 1024
+2022-11-04 10:13:42,700 [TCPServer] DEBUG i.n.u.i.InternalThreadLocalMap [InternalThreadLocalMap.java : 59] - -Dio.netty.threadLocalMap.stringBuilder.maxSize: 4096
+2022-11-04 10:13:42,709 [TCPServer] DEBUG io.netty.channel.nio.NioEventLoop [NioEventLoop.java : 106] - -Dio.netty.noKeySetOptimization: false
+2022-11-04 10:13:42,710 [TCPServer] DEBUG io.netty.channel.nio.NioEventLoop [NioEventLoop.java : 107] - -Dio.netty.selectorAutoRebuildThreshold: 512
+2022-11-04 10:13:42,725 [TCPServer] DEBUG i.n.util.internal.PlatformDependent [PlatformDependent.java : 1028] - Platform: Windows
+2022-11-04 10:13:42,727 [TCPServer] DEBUG i.n.util.internal.PlatformDependent0 [PlatformDependent0.java : 417] - -Dio.netty.noUnsafe: false
+2022-11-04 10:13:42,728 [TCPServer] DEBUG i.n.util.internal.PlatformDependent0 [PlatformDependent0.java : 889] - Java version: 8
+2022-11-04 10:13:42,729 [TCPServer] DEBUG i.n.util.internal.PlatformDependent0 [PlatformDependent0.java : 130] - sun.misc.Unsafe.theUnsafe: available
+2022-11-04 10:13:42,730 [TCPServer] DEBUG i.n.util.internal.PlatformDependent0 [PlatformDependent0.java : 154] - sun.misc.Unsafe.copyMemory: available
+2022-11-04 10:13:42,731 [TCPServer] DEBUG i.n.util.internal.PlatformDependent0 [PlatformDependent0.java : 192] - java.nio.Buffer.address: available
+2022-11-04 10:13:42,732 [TCPServer] DEBUG i.n.util.internal.PlatformDependent0 [PlatformDependent0.java : 257] - direct buffer constructor: available
+2022-11-04 10:13:42,733 [TCPServer] DEBUG i.n.util.internal.PlatformDependent0 [PlatformDependent0.java : 331] - java.nio.Bits.unaligned: available, true
+2022-11-04 10:13:42,733 [TCPServer] DEBUG i.n.util.internal.PlatformDependent0 [PlatformDependent0.java : 396] - jdk.internal.misc.Unsafe.allocateUninitializedArray(int): unavailable prior to Java9
+2022-11-04 10:13:42,733 [TCPServer] DEBUG i.n.util.internal.PlatformDependent0 [PlatformDependent0.java : 403] - java.nio.DirectByteBuffer.<init>(long, int): available
+2022-11-04 10:13:42,733 [TCPServer] DEBUG i.n.util.internal.PlatformDependent [PlatformDependent.java : 1071] - sun.misc.Unsafe: available
+2022-11-04 10:13:42,733 [TCPServer] DEBUG i.n.util.internal.PlatformDependent [PlatformDependent.java : 1192] - -Dio.netty.tmpdir: C:\Users\JIALIZ~1\AppData\Local\Temp (java.io.tmpdir)
+2022-11-04 10:13:42,734 [TCPServer] DEBUG i.n.util.internal.PlatformDependent [PlatformDependent.java : 1271] - -Dio.netty.bitMode: 64 (sun.arch.data.model)
+2022-11-04 10:13:42,735 [TCPServer] DEBUG i.n.util.internal.PlatformDependent [PlatformDependent.java : 177] - -Dio.netty.maxDirectMemory: 7572291584 bytes
+2022-11-04 10:13:42,735 [TCPServer] DEBUG i.n.util.internal.PlatformDependent [PlatformDependent.java : 184] - -Dio.netty.uninitializedArrayAllocationThreshold: -1
+2022-11-04 10:13:42,736 [TCPServer] DEBUG io.netty.util.internal.CleanerJava6 [CleanerJava6.java : 92] - java.nio.ByteBuffer.cleaner(): available
+2022-11-04 10:13:42,736 [TCPServer] DEBUG i.n.util.internal.PlatformDependent [PlatformDependent.java : 204] - -Dio.netty.noPreferDirect: false
+2022-11-04 10:13:42,745 [TCPServer] DEBUG i.n.util.internal.PlatformDependent [PlatformDependent.java : 932] - org.jctools-core.MpscChunkedArrayQueue: available
+2022-11-04 10:13:42,831 [TCPServer] TRACE io.netty.channel.nio.NioEventLoop [NioEventLoop.java : 260] - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@146e2190
+2022-11-04 10:13:42,833 [TCPServer] TRACE io.netty.channel.nio.NioEventLoop [NioEventLoop.java : 260] - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@1633d637
+2022-11-04 10:13:42,834 [TCPServer] TRACE io.netty.channel.nio.NioEventLoop [NioEventLoop.java : 260] - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@559f9fff
+2022-11-04 10:13:42,834 [TCPServer] TRACE io.netty.channel.nio.NioEventLoop [NioEventLoop.java : 260] - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@5fcd7d46
+2022-11-04 10:13:42,835 [TCPServer] TRACE io.netty.channel.nio.NioEventLoop [NioEventLoop.java : 260] - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@e3beea0
+2022-11-04 10:13:42,835 [TCPServer] TRACE io.netty.channel.nio.NioEventLoop [NioEventLoop.java : 260] - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@6b1133e
+2022-11-04 10:13:42,836 [TCPServer] TRACE io.netty.channel.nio.NioEventLoop [NioEventLoop.java : 260] - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@2f780470
+2022-11-04 10:13:42,837 [TCPServer] TRACE io.netty.channel.nio.NioEventLoop [NioEventLoop.java : 260] - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@1b6b6b94
+2022-11-04 10:13:42,837 [TCPServer] TRACE io.netty.channel.nio.NioEventLoop [NioEventLoop.java : 260] - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@4a74c8b7
+2022-11-04 10:13:42,837 [TCPServer] TRACE io.netty.channel.nio.NioEventLoop [NioEventLoop.java : 260] - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@44520a24
+2022-11-04 10:13:42,838 [TCPServer] TRACE io.netty.channel.nio.NioEventLoop [NioEventLoop.java : 260] - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@2be6dd5a
+2022-11-04 10:13:42,838 [TCPServer] TRACE io.netty.channel.nio.NioEventLoop [NioEventLoop.java : 260] - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@6b913479
+2022-11-04 10:13:42,839 [TCPServer] TRACE io.netty.channel.nio.NioEventLoop [NioEventLoop.java : 260] - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@74c68cc
+2022-11-04 10:13:42,839 [TCPServer] TRACE io.netty.channel.nio.NioEventLoop [NioEventLoop.java : 260] - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@539b412b
+2022-11-04 10:13:42,840 [TCPServer] TRACE io.netty.channel.nio.NioEventLoop [NioEventLoop.java : 260] - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@4e0a5a0f
+2022-11-04 10:13:42,841 [TCPServer] TRACE io.netty.channel.nio.NioEventLoop [NioEventLoop.java : 260] - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@2c5a9d4b
+2022-11-04 10:13:42,842 [TCPServer] TRACE io.netty.channel.nio.NioEventLoop [NioEventLoop.java : 260] - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@48349a04
+2022-11-04 10:13:42,843 [TCPServer] TRACE io.netty.channel.nio.NioEventLoop [NioEventLoop.java : 260] - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@41af1830
+2022-11-04 10:13:42,844 [TCPServer] TRACE io.netty.channel.nio.NioEventLoop [NioEventLoop.java : 260] - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@5d69e828
+2022-11-04 10:13:42,845 [TCPServer] TRACE io.netty.channel.nio.NioEventLoop [NioEventLoop.java : 260] - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@2521960b
+2022-11-04 10:13:42,846 [TCPServer] TRACE io.netty.channel.nio.NioEventLoop [NioEventLoop.java : 260] - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@4929dc11
+2022-11-04 10:13:42,846 [TCPServer] TRACE io.netty.channel.nio.NioEventLoop [NioEventLoop.java : 260] - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@707e239c
+2022-11-04 10:13:42,847 [TCPServer] TRACE io.netty.channel.nio.NioEventLoop [NioEventLoop.java : 260] - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@6244ad13
+2022-11-04 10:13:42,847 [TCPServer] TRACE io.netty.channel.nio.NioEventLoop [NioEventLoop.java : 260] - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@4b7cfe9e
+2022-11-04 10:13:42,849 [TCPServer] TRACE io.netty.channel.nio.NioEventLoop [NioEventLoop.java : 260] - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@2b3bc754
+2022-11-04 10:13:42,850 [TCPServer] TRACE io.netty.channel.nio.NioEventLoop [NioEventLoop.java : 260] - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@6affbb
+2022-11-04 10:13:42,851 [TCPServer] TRACE io.netty.channel.nio.NioEventLoop [NioEventLoop.java : 260] - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@4f244793
+2022-11-04 10:13:42,852 [TCPServer] TRACE io.netty.channel.nio.NioEventLoop [NioEventLoop.java : 260] - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@7f5398f8
+2022-11-04 10:13:42,852 [TCPServer] TRACE io.netty.channel.nio.NioEventLoop [NioEventLoop.java : 260] - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@a27f121
+2022-11-04 10:13:42,853 [TCPServer] TRACE io.netty.channel.nio.NioEventLoop [NioEventLoop.java : 260] - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@5d6740f9
+2022-11-04 10:13:42,854 [TCPServer] TRACE io.netty.channel.nio.NioEventLoop [NioEventLoop.java : 260] - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@30929c19
+2022-11-04 10:13:42,854 [TCPServer] TRACE io.netty.channel.nio.NioEventLoop [NioEventLoop.java : 260] - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@53e556ab
+2022-11-04 10:13:42,854 [TCPServer] TRACE io.netty.channel.nio.NioEventLoop [NioEventLoop.java : 260] - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@667e1b0f
+2022-11-04 10:13:42,855 [TCPServer] TRACE io.netty.channel.nio.NioEventLoop [NioEventLoop.java : 260] - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@1f9efb1
+2022-11-04 10:13:42,856 [TCPServer] TRACE io.netty.channel.nio.NioEventLoop [NioEventLoop.java : 260] - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@252fc9c3
+2022-11-04 10:13:42,857 [TCPServer] TRACE io.netty.channel.nio.NioEventLoop [NioEventLoop.java : 260] - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@5c8683c3
+2022-11-04 10:13:42,857 [TCPServer] TRACE io.netty.channel.nio.NioEventLoop [NioEventLoop.java : 260] - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@4a364d3f
+2022-11-04 10:13:42,859 [TCPServer] TRACE io.netty.channel.nio.NioEventLoop [NioEventLoop.java : 260] - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@47ca7af
+2022-11-04 10:13:42,860 [TCPServer] TRACE io.netty.channel.nio.NioEventLoop [NioEventLoop.java : 260] - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@5fc60732
+2022-11-04 10:13:42,861 [TCPServer] TRACE io.netty.channel.nio.NioEventLoop [NioEventLoop.java : 260] - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@37360f92
+2022-11-04 10:13:42,862 [TCPServer] TRACE io.netty.channel.nio.NioEventLoop [NioEventLoop.java : 260] - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@4f91e3fe
+2022-11-04 10:13:42,862 [TCPServer] TRACE io.netty.channel.nio.NioEventLoop [NioEventLoop.java : 260] - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@2eb1647c
+2022-11-04 10:13:42,863 [TCPServer] TRACE io.netty.channel.nio.NioEventLoop [NioEventLoop.java : 260] - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@4121190f
+2022-11-04 10:13:42,863 [TCPServer] TRACE io.netty.channel.nio.NioEventLoop [NioEventLoop.java : 260] - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@46ecd426
+2022-11-04 10:13:42,864 [TCPServer] TRACE io.netty.channel.nio.NioEventLoop [NioEventLoop.java : 260] - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@6224116
+2022-11-04 10:13:42,865 [TCPServer] TRACE io.netty.channel.nio.NioEventLoop [NioEventLoop.java : 260] - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@2395572a
+2022-11-04 10:13:42,865 [TCPServer] TRACE io.netty.channel.nio.NioEventLoop [NioEventLoop.java : 260] - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@6ab5db36
+2022-11-04 10:13:42,866 [TCPServer] TRACE io.netty.channel.nio.NioEventLoop [NioEventLoop.java : 260] - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@4ad86fa2
+2022-11-04 10:13:42,901 [TCPServer] DEBUG io.netty.channel.DefaultChannelId [DefaultChannelId.java : 79] - -Dio.netty.processId: 113776 (auto-detected)
+2022-11-04 10:13:42,903 [TCPServer] DEBUG io.netty.util.NetUtil [NetUtil.java : 139] - -Djava.net.preferIPv4Stack: false
+2022-11-04 10:13:42,903 [TCPServer] DEBUG io.netty.util.NetUtil [NetUtil.java : 140] - -Djava.net.preferIPv6Addresses: false
+2022-11-04 10:13:42,931 [TCPServer] DEBUG io.netty.util.NetUtil [NetUtil.java : 224] - Loopback interface: lo (Software Loopback Interface 1, 127.0.0.1)
+2022-11-04 10:13:42,933 [TCPServer] DEBUG io.netty.util.NetUtil [NetUtil.java : 289] - Failed to get SOMAXCONN from sysctl and file \proc\sys\net\core\somaxconn. Default: 200
+2022-11-04 10:13:42,961 [TCPServer] DEBUG io.netty.channel.DefaultChannelId [DefaultChannelId.java : 101] - -Dio.netty.machineId: c0:25:a5:ff:fe:cc:f3:1f (auto-detected)
+2022-11-04 10:13:42,974 [TCPServer] DEBUG io.netty.util.ResourceLeakDetector [ResourceLeakDetector.java : 130] - -Dio.netty.leakDetection.level: simple
+2022-11-04 10:13:42,975 [TCPServer] DEBUG io.netty.util.ResourceLeakDetector [ResourceLeakDetector.java : 131] - -Dio.netty.leakDetection.targetRecords: 4
+2022-11-04 10:13:42,997 [TCPServer] DEBUG i.n.buffer.PooledByteBufAllocator [PooledByteBufAllocator.java : 154] - -Dio.netty.allocator.numHeapArenas: 24
+2022-11-04 10:13:42,998 [TCPServer] DEBUG i.n.buffer.PooledByteBufAllocator [PooledByteBufAllocator.java : 155] - -Dio.netty.allocator.numDirectArenas: 24
+2022-11-04 10:13:42,998 [TCPServer] DEBUG i.n.buffer.PooledByteBufAllocator [PooledByteBufAllocator.java : 157] - -Dio.netty.allocator.pageSize: 8192
+2022-11-04 10:13:42,998 [TCPServer] DEBUG i.n.buffer.PooledByteBufAllocator [PooledByteBufAllocator.java : 162] - -Dio.netty.allocator.maxOrder: 11
+2022-11-04 10:13:42,998 [TCPServer] DEBUG i.n.buffer.PooledByteBufAllocator [PooledByteBufAllocator.java : 166] - -Dio.netty.allocator.chunkSize: 16777216
+2022-11-04 10:13:42,998 [TCPServer] DEBUG i.n.buffer.PooledByteBufAllocator [PooledByteBufAllocator.java : 167] - -Dio.netty.allocator.smallCacheSize: 256
+2022-11-04 10:13:42,998 [TCPServer] DEBUG i.n.buffer.PooledByteBufAllocator [PooledByteBufAllocator.java : 168] - -Dio.netty.allocator.normalCacheSize: 64
+2022-11-04 10:13:42,999 [TCPServer] DEBUG i.n.buffer.PooledByteBufAllocator [PooledByteBufAllocator.java : 169] - -Dio.netty.allocator.maxCachedBufferCapacity: 32768
+2022-11-04 10:13:42,999 [TCPServer] DEBUG i.n.buffer.PooledByteBufAllocator [PooledByteBufAllocator.java : 170] - -Dio.netty.allocator.cacheTrimInterval: 8192
+2022-11-04 10:13:42,999 [TCPServer] DEBUG i.n.buffer.PooledByteBufAllocator [PooledByteBufAllocator.java : 171] - -Dio.netty.allocator.cacheTrimIntervalMillis: 0
+2022-11-04 10:13:42,999 [TCPServer] DEBUG i.n.buffer.PooledByteBufAllocator [PooledByteBufAllocator.java : 172] - -Dio.netty.allocator.useCacheForAllThreads: true
+2022-11-04 10:13:42,999 [TCPServer] DEBUG i.n.buffer.PooledByteBufAllocator [PooledByteBufAllocator.java : 173] - -Dio.netty.allocator.maxCachedByteBuffersPerChunk: 1023
+2022-11-04 10:13:43,009 [TCPServer] DEBUG io.netty.buffer.ByteBufUtil [ByteBufUtil.java : 87] - -Dio.netty.allocator.type: pooled
+2022-11-04 10:13:43,009 [TCPServer] DEBUG io.netty.buffer.ByteBufUtil [ByteBufUtil.java : 96] - -Dio.netty.threadLocalDirectBufferSize: 0
+2022-11-04 10:13:43,009 [TCPServer] DEBUG io.netty.buffer.ByteBufUtil [ByteBufUtil.java : 99] - -Dio.netty.maxThreadLocalCharBufferSize: 16384
+2022-11-04 10:14:00,218 [nioEventLoopGroup-3-1] DEBUG io.netty.buffer.AbstractByteBuf [AbstractByteBuf.java : 63] - -Dio.netty.buffer.checkAccessible: true
+2022-11-04 10:14:00,218 [nioEventLoopGroup-3-1] DEBUG io.netty.buffer.AbstractByteBuf [AbstractByteBuf.java : 64] - -Dio.netty.buffer.checkBounds: true
+2022-11-04 10:14:00,219 [nioEventLoopGroup-3-1] DEBUG i.n.util.ResourceLeakDetectorFactory [ResourceLeakDetectorFactory.java : 196] - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@3b4608ba
+2022-11-04 10:14:00,231 [nioEventLoopGroup-3-1] DEBUG i.n.handler.logging.LoggingHandler [AbstractInternalLogger.java : 145] - [id: 0x9e7f7e87, L:/127.0.0.1:20049 - R:/127.0.0.1:62892] REGISTERED
+2022-11-04 10:14:00,231 [nioEventLoopGroup-3-1] DEBUG i.n.handler.logging.LoggingHandler [AbstractInternalLogger.java : 145] - [id: 0x9e7f7e87, L:/127.0.0.1:20049 - R:/127.0.0.1:62892] ACTIVE
+2022-11-04 10:14:02,959 [nioEventLoopGroup-3-1] DEBUG io.netty.util.Recycler [Recycler.java : 100] - -Dio.netty.recycler.maxCapacityPerThread: 4096
+2022-11-04 10:14:02,960 [nioEventLoopGroup-3-1] DEBUG io.netty.util.Recycler [Recycler.java : 101] - -Dio.netty.recycler.maxSharedCapacityFactor: 2
+2022-11-04 10:14:02,960 [nioEventLoopGroup-3-1] DEBUG io.netty.util.Recycler [Recycler.java : 102] - -Dio.netty.recycler.linkCapacity: 16
+2022-11-04 10:14:02,960 [nioEventLoopGroup-3-1] DEBUG io.netty.util.Recycler [Recycler.java : 103] - -Dio.netty.recycler.ratio: 8
+2022-11-04 10:14:02,960 [nioEventLoopGroup-3-1] DEBUG io.netty.util.Recycler [Recycler.java : 104] - -Dio.netty.recycler.delayedQueue.ratio: 8
+2022-11-04 10:14:02,967 [nioEventLoopGroup-3-1] DEBUG i.n.handler.logging.LoggingHandler [AbstractInternalLogger.java : 145] - [id: 0x9e7f7e87, L:/127.0.0.1:20049 - R:/127.0.0.1:62892] READ: 81B
+         +-------------------------------------------------+
+         |  0  1  2  3  4  5  6  7  8  9  a  b  c  d  e  f |
++--------+-------------------------------------------------+----------------+
+|00000000| 7e 02 00 00 42 01 98 30 02 70 84 01 4b 00 00 00 |~...B..0.p..K...|
+|00000010| 00 00 00 00 02 01 dd 1a 6a 07 32 39 60 00 00 00 |........j.29`...|
+|00000020| 00 01 4a 19 05 16 03 32 45 01 04 00 00 00 00 eb |..J....2E.......|
+|00000030| 1e 00 0c 00 b2 89 86 07 b4 03 18 c1 76 94 83 00 |............v...|
+|00000040| 06 00 89 ff ff ff ff 00 06 00 c5 ff ff ff ff a7 |................|
+|00000050| 7e                                              |~               |
++--------+-------------------------------------------------+----------------+
+2022-11-04 10:14:02,969 [nioEventLoopGroup-3-1] DEBUG i.n.c.ChannelInboundHandlerAdapter [TcpHandler.java : 43] - <<<<< ip:/127.0.0.1:62892,hex:
+2022-11-04 10:14:02,970 [nioEventLoopGroup-3-1] ERROR i.n.c.ChannelInboundHandlerAdapter [TcpHandler.java : 45] - 无可读字节，返回
+2022-11-04 10:14:02,970 [nioEventLoopGroup-3-1] DEBUG i.n.c.ChannelInboundHandlerAdapter [TcpHandler.java : 43] - <<<<< ip:/127.0.0.1:62892,hex:02000042019830027084014b000000000000000201dd1a6a0732396000000000014a190516033245010400000000eb1e000c00b2898607b40318c176948300060089ffffffff000600c5ffffffffa7
+2022-11-04 10:14:02,971 [nioEventLoopGroup-3-1] INFO  i.n.c.ChannelInboundHandlerAdapter [TcpHandler.java : 62] - 消息id：512
+2022-11-04 10:14:02,971 [nioEventLoopGroup-3-1] INFO  i.n.c.ChannelInboundHandlerAdapter [TcpHandler.java : 72] - 消息属性：66
+2022-11-04 10:14:02,971 [nioEventLoopGroup-3-1] INFO  i.n.c.ChannelInboundHandlerAdapter [TcpHandler.java : 74] - 长度：66
+2022-11-04 10:14:02,971 [nioEventLoopGroup-3-1] INFO  i.n.c.ChannelInboundHandlerAdapter [TcpHandler.java : 77] - 加密类型：0
+2022-11-04 10:14:02,971 [nioEventLoopGroup-3-1] INFO  i.n.c.ChannelInboundHandlerAdapter [TcpHandler.java : 80] - 是否有子包：false
+2022-11-04 10:14:02,972 [nioEventLoopGroup-3-1] INFO  i.n.c.ChannelInboundHandlerAdapter [TcpHandler.java : 83] - 保留位：0
+2022-11-04 10:14:02,972 [nioEventLoopGroup-3-1] INFO  i.n.c.ChannelInboundHandlerAdapter [TcpHandler.java : 91] - 2013版本
+2022-11-04 10:14:02,972 [nioEventLoopGroup-3-1] INFO  i.n.c.ChannelInboundHandlerAdapter [TcpHandler.java : 96] - 手机号：019830027084
+2022-11-04 10:14:02,972 [nioEventLoopGroup-3-1] INFO  i.n.c.ChannelInboundHandlerAdapter [TcpHandler.java : 111] - 消息流水号：331
+2022-11-04 10:14:02,972 [nioEventLoopGroup-3-1] INFO  i.n.c.ChannelInboundHandlerAdapter [TcpHandler.java : 124] - 得到消息头：MsgHeader [msgId=512, msgBodyPropsField=66, msgBodyLength=66, encryptionType=0, hasSubPackage=false, reservedBit=0, terminalPhone=019830027084, flowId=331, packageInfoField=0, totalSubPackage=0, subPackageSeq=0]
+2022-11-04 10:14:02,972 [nioEventLoopGroup-3-1] INFO  i.n.c.ChannelInboundHandlerAdapter [TcpHandler.java : 170] - >>>>>[位置信息],phone=019830027084,flowid=331
+2022-11-04 10:14:02,973 [nioEventLoopGroup-3-1] INFO  c.j.s.h.TerminalMsgProcessService [TerminalMsgProcessService.java : 153] - 位置上报信息:LocationInfoUploadMsg [warningFlagField=0, statusField=2, latitude=31.267433, longitude=120.732, elevation=0, speed=0.0, direction=330, time=Thu May 16 03:32:45 CST 2019]
+2022-11-04 10:14:03,087 [nioEventLoopGroup-3-1] TRACE io.netty.channel.nio.NioEventLoop [NioEventLoop.java : 260] - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@2b81ab27
+2022-11-04 10:14:03,203 [nioEventLoopGroup-3-1] DEBUG i.n.handler.logging.LoggingHandler [AbstractInternalLogger.java : 145] - [id: 0x9e7f7e87, L:/127.0.0.1:20049 - R:/127.0.0.1:62892] WRITE: 20B
+         +-------------------------------------------------+
+         |  0  1  2  3  4  5  6  7  8  9  a  b  c  d  e  f |
++--------+-------------------------------------------------+----------------+
+|00000000| 7e 80 01 00 05 01 98 30 02 70 84 01 4b 01 4b 02 |~......0.p..K.K.|
+|00000010| 00 00 d9 7e                                     |...~            |
++--------+-------------------------------------------------+----------------+
+2022-11-04 10:14:03,203 [nioEventLoopGroup-3-1] DEBUG i.n.handler.logging.LoggingHandler [AbstractInternalLogger.java : 145] - [id: 0x9e7f7e87, L:/127.0.0.1:20049 - R:/127.0.0.1:62892] FLUSH
+2022-11-04 10:14:03,203 [nioEventLoopGroup-3-1] INFO  i.n.c.ChannelInboundHandlerAdapter [TcpHandler.java : 173] - <<<<<[位置信息],phone=019830027084,flowOd=331
+2022-11-04 10:14:03,203 [nioEventLoopGroup-3-1] DEBUG i.n.handler.logging.LoggingHandler [AbstractInternalLogger.java : 145] - [id: 0x9e7f7e87, L:/127.0.0.1:20049 - R:/127.0.0.1:62892] READ COMPLETE
+2022-11-04 10:29:03,214 [nioEventLoopGroup-3-1] DEBUG i.n.handler.logging.LoggingHandler [AbstractInternalLogger.java : 145] - [id: 0x9e7f7e87, L:/127.0.0.1:20049 - R:/127.0.0.1:62892] USER_EVENT: IdleStateEvent(READER_IDLE, first)
+2022-11-04 10:44:03,221 [nioEventLoopGroup-3-1] DEBUG i.n.handler.logging.LoggingHandler [AbstractInternalLogger.java : 145] - [id: 0x9e7f7e87, L:/127.0.0.1:20049 - R:/127.0.0.1:62892] USER_EVENT: IdleStateEvent(READER_IDLE)
+2022-11-04 10:59:03,235 [nioEventLoopGroup-3-1] DEBUG i.n.handler.logging.LoggingHandler [AbstractInternalLogger.java : 145] - [id: 0x9e7f7e87, L:/127.0.0.1:20049 - R:/127.0.0.1:62892] USER_EVENT: IdleStateEvent(READER_IDLE)
+2022-11-04 11:14:03,250 [nioEventLoopGroup-3-1] DEBUG i.n.handler.logging.LoggingHandler [AbstractInternalLogger.java : 145] - [id: 0x9e7f7e87, L:/127.0.0.1:20049 - R:/127.0.0.1:62892] USER_EVENT: IdleStateEvent(READER_IDLE)
+2022-11-04 11:29:03,261 [nioEventLoopGroup-3-1] DEBUG i.n.handler.logging.LoggingHandler [AbstractInternalLogger.java : 145] - [id: 0x9e7f7e87, L:/127.0.0.1:20049 - R:/127.0.0.1:62892] USER_EVENT: IdleStateEvent(READER_IDLE)
+2022-11-04 11:44:03,276 [nioEventLoopGroup-3-1] DEBUG i.n.handler.logging.LoggingHandler [AbstractInternalLogger.java : 145] - [id: 0x9e7f7e87, L:/127.0.0.1:20049 - R:/127.0.0.1:62892] USER_EVENT: IdleStateEvent(READER_IDLE)
+2022-11-04 11:59:03,284 [nioEventLoopGroup-3-1] DEBUG i.n.handler.logging.LoggingHandler [AbstractInternalLogger.java : 145] - [id: 0x9e7f7e87, L:/127.0.0.1:20049 - R:/127.0.0.1:62892] USER_EVENT: IdleStateEvent(READER_IDLE)
+2022-11-04 12:14:03,294 [nioEventLoopGroup-3-1] DEBUG i.n.handler.logging.LoggingHandler [AbstractInternalLogger.java : 145] - [id: 0x9e7f7e87, L:/127.0.0.1:20049 - R:/127.0.0.1:62892] USER_EVENT: IdleStateEvent(READER_IDLE)
+2022-11-04 12:29:03,306 [nioEventLoopGroup-3-1] DEBUG i.n.handler.logging.LoggingHandler [AbstractInternalLogger.java : 145] - [id: 0x9e7f7e87, L:/127.0.0.1:20049 - R:/127.0.0.1:62892] USER_EVENT: IdleStateEvent(READER_IDLE)
+2022-11-04 12:44:03,321 [nioEventLoopGroup-3-1] DEBUG i.n.handler.logging.LoggingHandler [AbstractInternalLogger.java : 145] - [id: 0x9e7f7e87, L:/127.0.0.1:20049 - R:/127.0.0.1:62892] USER_EVENT: IdleStateEvent(READER_IDLE)
+2022-11-04 12:59:03,334 [nioEventLoopGroup-3-1] DEBUG i.n.handler.logging.LoggingHandler [AbstractInternalLogger.java : 145] - [id: 0x9e7f7e87, L:/127.0.0.1:20049 - R:/127.0.0.1:62892] USER_EVENT: IdleStateEvent(READER_IDLE)
+2022-11-04 13:14:03,349 [nioEventLoopGroup-3-1] DEBUG i.n.handler.logging.LoggingHandler [AbstractInternalLogger.java : 145] - [id: 0x9e7f7e87, L:/127.0.0.1:20049 - R:/127.0.0.1:62892] USER_EVENT: IdleStateEvent(READER_IDLE)
+2022-11-04 13:29:03,351 [nioEventLoopGroup-3-1] DEBUG i.n.handler.logging.LoggingHandler [AbstractInternalLogger.java : 145] - [id: 0x9e7f7e87, L:/127.0.0.1:20049 - R:/127.0.0.1:62892] USER_EVENT: IdleStateEvent(READER_IDLE)
+2022-11-04 13:44:03,360 [nioEventLoopGroup-3-1] DEBUG i.n.handler.logging.LoggingHandler [AbstractInternalLogger.java : 145] - [id: 0x9e7f7e87, L:/127.0.0.1:20049 - R:/127.0.0.1:62892] USER_EVENT: IdleStateEvent(READER_IDLE)
+2022-11-04 13:59:03,366 [nioEventLoopGroup-3-1] DEBUG i.n.handler.logging.LoggingHandler [AbstractInternalLogger.java : 145] - [id: 0x9e7f7e87, L:/127.0.0.1:20049 - R:/127.0.0.1:62892] USER_EVENT: IdleStateEvent(READER_IDLE)
+2022-11-04 14:14:03,373 [nioEventLoopGroup-3-1] DEBUG i.n.handler.logging.LoggingHandler [AbstractInternalLogger.java : 145] - [id: 0x9e7f7e87, L:/127.0.0.1:20049 - R:/127.0.0.1:62892] USER_EVENT: IdleStateEvent(READER_IDLE)
+2022-11-09 17:44:06,662 [TCPServer] DEBUG i.n.u.i.l.InternalLoggerFactory [InternalLoggerFactory.java : 45] - Using SLF4J as the default logging framework
+2022-11-09 17:44:06,687 [TCPServer] DEBUG i.n.c.MultithreadEventLoopGroup [MultithreadEventLoopGroup.java : 44] - -Dio.netty.eventLoopThreads: 24
+2022-11-09 17:44:06,765 [TCPServer] DEBUG i.n.u.i.InternalThreadLocalMap [InternalThreadLocalMap.java : 56] - -Dio.netty.threadLocalMap.stringBuilder.initialSize: 1024
+2022-11-09 17:44:06,766 [TCPServer] DEBUG i.n.u.i.InternalThreadLocalMap [InternalThreadLocalMap.java : 59] - -Dio.netty.threadLocalMap.stringBuilder.maxSize: 4096
+2022-11-09 17:44:06,778 [TCPServer] DEBUG io.netty.channel.nio.NioEventLoop [NioEventLoop.java : 106] - -Dio.netty.noKeySetOptimization: false
+2022-11-09 17:44:06,778 [TCPServer] DEBUG io.netty.channel.nio.NioEventLoop [NioEventLoop.java : 107] - -Dio.netty.selectorAutoRebuildThreshold: 512
+2022-11-09 17:44:06,799 [TCPServer] DEBUG i.n.util.internal.PlatformDependent [PlatformDependent.java : 1028] - Platform: Windows
+2022-11-09 17:44:06,802 [TCPServer] DEBUG i.n.util.internal.PlatformDependent0 [PlatformDependent0.java : 417] - -Dio.netty.noUnsafe: false
+2022-11-09 17:44:06,802 [TCPServer] DEBUG i.n.util.internal.PlatformDependent0 [PlatformDependent0.java : 889] - Java version: 8
+2022-11-09 17:44:06,803 [TCPServer] DEBUG i.n.util.internal.PlatformDependent0 [PlatformDependent0.java : 130] - sun.misc.Unsafe.theUnsafe: available
+2022-11-09 17:44:06,804 [TCPServer] DEBUG i.n.util.internal.PlatformDependent0 [PlatformDependent0.java : 154] - sun.misc.Unsafe.copyMemory: available
+2022-11-09 17:44:06,804 [TCPServer] DEBUG i.n.util.internal.PlatformDependent0 [PlatformDependent0.java : 192] - java.nio.Buffer.address: available
+2022-11-09 17:44:06,805 [TCPServer] DEBUG i.n.util.internal.PlatformDependent0 [PlatformDependent0.java : 257] - direct buffer constructor: available
+2022-11-09 17:44:06,806 [TCPServer] DEBUG i.n.util.internal.PlatformDependent0 [PlatformDependent0.java : 331] - java.nio.Bits.unaligned: available, true
+2022-11-09 17:44:06,806 [TCPServer] DEBUG i.n.util.internal.PlatformDependent0 [PlatformDependent0.java : 396] - jdk.internal.misc.Unsafe.allocateUninitializedArray(int): unavailable prior to Java9
+2022-11-09 17:44:06,806 [TCPServer] DEBUG i.n.util.internal.PlatformDependent0 [PlatformDependent0.java : 403] - java.nio.DirectByteBuffer.<init>(long, int): available
+2022-11-09 17:44:06,806 [TCPServer] DEBUG i.n.util.internal.PlatformDependent [PlatformDependent.java : 1071] - sun.misc.Unsafe: available
+2022-11-09 17:44:06,807 [TCPServer] DEBUG i.n.util.internal.PlatformDependent [PlatformDependent.java : 1192] - -Dio.netty.tmpdir: C:\Users\JIALIZ~1\AppData\Local\Temp (java.io.tmpdir)
+2022-11-09 17:44:06,807 [TCPServer] DEBUG i.n.util.internal.PlatformDependent [PlatformDependent.java : 1271] - -Dio.netty.bitMode: 64 (sun.arch.data.model)
+2022-11-09 17:44:06,808 [TCPServer] DEBUG i.n.util.internal.PlatformDependent [PlatformDependent.java : 177] - -Dio.netty.maxDirectMemory: 7572291584 bytes
+2022-11-09 17:44:06,809 [TCPServer] DEBUG i.n.util.internal.PlatformDependent [PlatformDependent.java : 184] - -Dio.netty.uninitializedArrayAllocationThreshold: -1
+2022-11-09 17:44:06,810 [TCPServer] DEBUG io.netty.util.internal.CleanerJava6 [CleanerJava6.java : 92] - java.nio.ByteBuffer.cleaner(): available
+2022-11-09 17:44:06,810 [TCPServer] DEBUG i.n.util.internal.PlatformDependent [PlatformDependent.java : 204] - -Dio.netty.noPreferDirect: false
+2022-11-09 17:44:06,818 [TCPServer] DEBUG i.n.util.internal.PlatformDependent [PlatformDependent.java : 932] - org.jctools-core.MpscChunkedArrayQueue: available
+2022-11-09 17:44:06,906 [TCPServer] TRACE io.netty.channel.nio.NioEventLoop [NioEventLoop.java : 260] - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@50375270
+2022-11-09 17:44:06,907 [TCPServer] TRACE io.netty.channel.nio.NioEventLoop [NioEventLoop.java : 260] - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@5aef07ce
+2022-11-09 17:44:06,908 [TCPServer] TRACE io.netty.channel.nio.NioEventLoop [NioEventLoop.java : 260] - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@39be6ab5
+2022-11-09 17:44:06,909 [TCPServer] TRACE io.netty.channel.nio.NioEventLoop [NioEventLoop.java : 260] - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@2aec530
+2022-11-09 17:44:06,909 [TCPServer] TRACE io.netty.channel.nio.NioEventLoop [NioEventLoop.java : 260] - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@20d31e1c
+2022-11-09 17:44:06,910 [TCPServer] TRACE io.netty.channel.nio.NioEventLoop [NioEventLoop.java : 260] - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@2a0acbf
+2022-11-09 17:44:06,910 [TCPServer] TRACE io.netty.channel.nio.NioEventLoop [NioEventLoop.java : 260] - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@4881859c
+2022-11-09 17:44:06,911 [TCPServer] TRACE io.netty.channel.nio.NioEventLoop [NioEventLoop.java : 260] - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@3cf25ef9
+2022-11-09 17:44:06,911 [TCPServer] TRACE io.netty.channel.nio.NioEventLoop [NioEventLoop.java : 260] - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@4e98485
+2022-11-09 17:44:06,912 [TCPServer] TRACE io.netty.channel.nio.NioEventLoop [NioEventLoop.java : 260] - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@32b15f3
+2022-11-09 17:44:06,913 [TCPServer] TRACE io.netty.channel.nio.NioEventLoop [NioEventLoop.java : 260] - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@4742dd6f
+2022-11-09 17:44:06,913 [TCPServer] TRACE io.netty.channel.nio.NioEventLoop [NioEventLoop.java : 260] - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@69e956e8
+2022-11-09 17:44:06,914 [TCPServer] TRACE io.netty.channel.nio.NioEventLoop [NioEventLoop.java : 260] - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@216c3afc
+2022-11-09 17:44:06,915 [TCPServer] TRACE io.netty.channel.nio.NioEventLoop [NioEventLoop.java : 260] - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@7ab337af
+2022-11-09 17:44:06,916 [TCPServer] TRACE io.netty.channel.nio.NioEventLoop [NioEventLoop.java : 260] - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@2bcb3433
+2022-11-09 17:44:06,916 [TCPServer] TRACE io.netty.channel.nio.NioEventLoop [NioEventLoop.java : 260] - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@8b669b4
+2022-11-09 17:44:06,917 [TCPServer] TRACE io.netty.channel.nio.NioEventLoop [NioEventLoop.java : 260] - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@484d1984
+2022-11-09 17:44:06,918 [TCPServer] TRACE io.netty.channel.nio.NioEventLoop [NioEventLoop.java : 260] - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@2ba0416d
+2022-11-09 17:44:06,918 [TCPServer] TRACE io.netty.channel.nio.NioEventLoop [NioEventLoop.java : 260] - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@59388286
+2022-11-09 17:44:06,919 [TCPServer] TRACE io.netty.channel.nio.NioEventLoop [NioEventLoop.java : 260] - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@62f8abdc
+2022-11-09 17:44:06,920 [TCPServer] TRACE io.netty.channel.nio.NioEventLoop [NioEventLoop.java : 260] - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@42d90f3e
+2022-11-09 17:44:06,921 [TCPServer] TRACE io.netty.channel.nio.NioEventLoop [NioEventLoop.java : 260] - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@6b5b8521
+2022-11-09 17:44:06,921 [TCPServer] TRACE io.netty.channel.nio.NioEventLoop [NioEventLoop.java : 260] - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@766a167e
+2022-11-09 17:44:06,922 [TCPServer] TRACE io.netty.channel.nio.NioEventLoop [NioEventLoop.java : 260] - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@51ebf524
+2022-11-09 17:44:06,924 [TCPServer] TRACE io.netty.channel.nio.NioEventLoop [NioEventLoop.java : 260] - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@238f7948
+2022-11-09 17:44:06,925 [TCPServer] TRACE io.netty.channel.nio.NioEventLoop [NioEventLoop.java : 260] - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@521084ae
+2022-11-09 17:44:06,926 [TCPServer] TRACE io.netty.channel.nio.NioEventLoop [NioEventLoop.java : 260] - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@25c11469
+2022-11-09 17:44:06,926 [TCPServer] TRACE io.netty.channel.nio.NioEventLoop [NioEventLoop.java : 260] - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@39b23af1
+2022-11-09 17:44:06,927 [TCPServer] TRACE io.netty.channel.nio.NioEventLoop [NioEventLoop.java : 260] - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@612f41b6
+2022-11-09 17:44:06,927 [TCPServer] TRACE io.netty.channel.nio.NioEventLoop [NioEventLoop.java : 260] - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@37cc9cc9
+2022-11-09 17:44:06,928 [TCPServer] TRACE io.netty.channel.nio.NioEventLoop [NioEventLoop.java : 260] - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@1a83a405
+2022-11-09 17:44:06,928 [TCPServer] TRACE io.netty.channel.nio.NioEventLoop [NioEventLoop.java : 260] - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@324e7016
+2022-11-09 17:44:06,928 [TCPServer] TRACE io.netty.channel.nio.NioEventLoop [NioEventLoop.java : 260] - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@29f7b518
+2022-11-09 17:44:06,929 [TCPServer] TRACE io.netty.channel.nio.NioEventLoop [NioEventLoop.java : 260] - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@7a8e4e3b
+2022-11-09 17:44:06,929 [TCPServer] TRACE io.netty.channel.nio.NioEventLoop [NioEventLoop.java : 260] - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@7d2a6ee3
+2022-11-09 17:44:06,930 [TCPServer] TRACE io.netty.channel.nio.NioEventLoop [NioEventLoop.java : 260] - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@3c256f90
+2022-11-09 17:44:06,930 [TCPServer] TRACE io.netty.channel.nio.NioEventLoop [NioEventLoop.java : 260] - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@28ee5279
+2022-11-09 17:44:06,930 [TCPServer] TRACE io.netty.channel.nio.NioEventLoop [NioEventLoop.java : 260] - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@20193ec9
+2022-11-09 17:44:06,931 [TCPServer] TRACE io.netty.channel.nio.NioEventLoop [NioEventLoop.java : 260] - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@e6a115f
+2022-11-09 17:44:06,932 [TCPServer] TRACE io.netty.channel.nio.NioEventLoop [NioEventLoop.java : 260] - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@19a4a6ed
+2022-11-09 17:44:06,932 [TCPServer] TRACE io.netty.channel.nio.NioEventLoop [NioEventLoop.java : 260] - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@4383523a
+2022-11-09 17:44:06,933 [TCPServer] TRACE io.netty.channel.nio.NioEventLoop [NioEventLoop.java : 260] - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@2a85d3f5
+2022-11-09 17:44:06,933 [TCPServer] TRACE io.netty.channel.nio.NioEventLoop [NioEventLoop.java : 260] - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@743bdf13
+2022-11-09 17:44:06,934 [TCPServer] TRACE io.netty.channel.nio.NioEventLoop [NioEventLoop.java : 260] - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@48148cb7
+2022-11-09 17:44:06,934 [TCPServer] TRACE io.netty.channel.nio.NioEventLoop [NioEventLoop.java : 260] - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@11df050d
+2022-11-09 17:44:06,934 [TCPServer] TRACE io.netty.channel.nio.NioEventLoop [NioEventLoop.java : 260] - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@15c166b8
+2022-11-09 17:44:06,935 [TCPServer] TRACE io.netty.channel.nio.NioEventLoop [NioEventLoop.java : 260] - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@3fa8e054
+2022-11-09 17:44:06,935 [TCPServer] TRACE io.netty.channel.nio.NioEventLoop [NioEventLoop.java : 260] - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@53b5b222
+2022-11-09 17:44:07,050 [TCPServer] DEBUG io.netty.channel.DefaultChannelId [DefaultChannelId.java : 79] - -Dio.netty.processId: 69620 (auto-detected)
+2022-11-09 17:44:07,054 [TCPServer] DEBUG io.netty.util.NetUtil [NetUtil.java : 139] - -Djava.net.preferIPv4Stack: false
+2022-11-09 17:44:07,054 [TCPServer] DEBUG io.netty.util.NetUtil [NetUtil.java : 140] - -Djava.net.preferIPv6Addresses: false
+2022-11-09 17:44:07,083 [TCPServer] DEBUG io.netty.util.NetUtil [NetUtil.java : 224] - Loopback interface: lo (Software Loopback Interface 1, 127.0.0.1)
+2022-11-09 17:44:07,084 [TCPServer] DEBUG io.netty.util.NetUtil [NetUtil.java : 289] - Failed to get SOMAXCONN from sysctl and file \proc\sys\net\core\somaxconn. Default: 200
+2022-11-09 17:44:07,111 [TCPServer] DEBUG io.netty.channel.DefaultChannelId [DefaultChannelId.java : 101] - -Dio.netty.machineId: c0:25:a5:ff:fe:cc:f3:1f (auto-detected)
+2022-11-09 17:44:07,140 [TCPServer] DEBUG io.netty.util.ResourceLeakDetector [ResourceLeakDetector.java : 130] - -Dio.netty.leakDetection.level: simple
+2022-11-09 17:44:07,141 [TCPServer] DEBUG io.netty.util.ResourceLeakDetector [ResourceLeakDetector.java : 131] - -Dio.netty.leakDetection.targetRecords: 4
+2022-11-09 17:44:07,179 [TCPServer] DEBUG i.n.buffer.PooledByteBufAllocator [PooledByteBufAllocator.java : 154] - -Dio.netty.allocator.numHeapArenas: 24
+2022-11-09 17:44:07,180 [TCPServer] DEBUG i.n.buffer.PooledByteBufAllocator [PooledByteBufAllocator.java : 155] - -Dio.netty.allocator.numDirectArenas: 24
+2022-11-09 17:44:07,180 [TCPServer] DEBUG i.n.buffer.PooledByteBufAllocator [PooledByteBufAllocator.java : 157] - -Dio.netty.allocator.pageSize: 8192
+2022-11-09 17:44:07,180 [TCPServer] DEBUG i.n.buffer.PooledByteBufAllocator [PooledByteBufAllocator.java : 162] - -Dio.netty.allocator.maxOrder: 11
+2022-11-09 17:44:07,180 [TCPServer] DEBUG i.n.buffer.PooledByteBufAllocator [PooledByteBufAllocator.java : 166] - -Dio.netty.allocator.chunkSize: 16777216
+2022-11-09 17:44:07,180 [TCPServer] DEBUG i.n.buffer.PooledByteBufAllocator [PooledByteBufAllocator.java : 167] - -Dio.netty.allocator.smallCacheSize: 256
+2022-11-09 17:44:07,180 [TCPServer] DEBUG i.n.buffer.PooledByteBufAllocator [PooledByteBufAllocator.java : 168] - -Dio.netty.allocator.normalCacheSize: 64
+2022-11-09 17:44:07,180 [TCPServer] DEBUG i.n.buffer.PooledByteBufAllocator [PooledByteBufAllocator.java : 169] - -Dio.netty.allocator.maxCachedBufferCapacity: 32768
+2022-11-09 17:44:07,181 [TCPServer] DEBUG i.n.buffer.PooledByteBufAllocator [PooledByteBufAllocator.java : 170] - -Dio.netty.allocator.cacheTrimInterval: 8192
+2022-11-09 17:44:07,181 [TCPServer] DEBUG i.n.buffer.PooledByteBufAllocator [PooledByteBufAllocator.java : 171] - -Dio.netty.allocator.cacheTrimIntervalMillis: 0
+2022-11-09 17:44:07,181 [TCPServer] DEBUG i.n.buffer.PooledByteBufAllocator [PooledByteBufAllocator.java : 172] - -Dio.netty.allocator.useCacheForAllThreads: true
+2022-11-09 17:44:07,181 [TCPServer] DEBUG i.n.buffer.PooledByteBufAllocator [PooledByteBufAllocator.java : 173] - -Dio.netty.allocator.maxCachedByteBuffersPerChunk: 1023
+2022-11-09 17:44:07,206 [TCPServer] DEBUG io.netty.buffer.ByteBufUtil [ByteBufUtil.java : 87] - -Dio.netty.allocator.type: pooled
+2022-11-09 17:44:07,206 [TCPServer] DEBUG io.netty.buffer.ByteBufUtil [ByteBufUtil.java : 96] - -Dio.netty.threadLocalDirectBufferSize: 0
+2022-11-09 17:44:07,207 [TCPServer] DEBUG io.netty.buffer.ByteBufUtil [ByteBufUtil.java : 99] - -Dio.netty.maxThreadLocalCharBufferSize: 16384
+2022-11-09 17:44:15,719 [nioEventLoopGroup-3-1] DEBUG io.netty.buffer.AbstractByteBuf [AbstractByteBuf.java : 63] - -Dio.netty.buffer.checkAccessible: true
+2022-11-09 17:44:15,719 [nioEventLoopGroup-3-1] DEBUG io.netty.buffer.AbstractByteBuf [AbstractByteBuf.java : 64] - -Dio.netty.buffer.checkBounds: true
+2022-11-09 17:44:15,720 [nioEventLoopGroup-3-1] DEBUG i.n.util.ResourceLeakDetectorFactory [ResourceLeakDetectorFactory.java : 196] - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@19540ab2
+2022-11-09 17:44:15,864 [nioEventLoopGroup-3-1] DEBUG i.n.handler.logging.LoggingHandler [AbstractInternalLogger.java : 145] - [id: 0x8fc1c43e, L:/127.0.0.1:20049 - R:/127.0.0.1:53479] REGISTERED
+2022-11-09 17:44:15,865 [nioEventLoopGroup-3-1] DEBUG i.n.handler.logging.LoggingHandler [AbstractInternalLogger.java : 145] - [id: 0x8fc1c43e, L:/127.0.0.1:20049 - R:/127.0.0.1:53479] ACTIVE
+2022-11-09 17:44:31,081 [nioEventLoopGroup-3-1] DEBUG io.netty.util.Recycler [Recycler.java : 100] - -Dio.netty.recycler.maxCapacityPerThread: 4096
+2022-11-09 17:44:31,081 [nioEventLoopGroup-3-1] DEBUG io.netty.util.Recycler [Recycler.java : 101] - -Dio.netty.recycler.maxSharedCapacityFactor: 2
+2022-11-09 17:44:31,081 [nioEventLoopGroup-3-1] DEBUG io.netty.util.Recycler [Recycler.java : 102] - -Dio.netty.recycler.linkCapacity: 16
+2022-11-09 17:44:31,081 [nioEventLoopGroup-3-1] DEBUG io.netty.util.Recycler [Recycler.java : 103] - -Dio.netty.recycler.ratio: 8
+2022-11-09 17:44:31,081 [nioEventLoopGroup-3-1] DEBUG io.netty.util.Recycler [Recycler.java : 104] - -Dio.netty.recycler.delayedQueue.ratio: 8
+2022-11-09 17:44:31,107 [nioEventLoopGroup-3-1] DEBUG i.n.handler.logging.LoggingHandler [AbstractInternalLogger.java : 145] - [id: 0x8fc1c43e, L:/127.0.0.1:20049 - R:/127.0.0.1:53479] READ COMPLETE
+2022-11-09 17:44:31,108 [nioEventLoopGroup-3-1] DEBUG i.n.handler.logging.LoggingHandler [AbstractInternalLogger.java : 145] - [id: 0x8fc1c43e, L:/127.0.0.1:20049 ! R:/127.0.0.1:53479] INACTIVE
+2022-11-09 17:44:31,122 [nioEventLoopGroup-3-1] DEBUG i.n.handler.logging.LoggingHandler [AbstractInternalLogger.java : 145] - [id: 0x8fc1c43e, L:/127.0.0.1:20049 ! R:/127.0.0.1:53479] UNREGISTERED
+2022-11-09 17:46:13,313 [nioEventLoopGroup-3-2] DEBUG i.n.handler.logging.LoggingHandler [AbstractInternalLogger.java : 145] - [id: 0x981afa34, L:/192.168.184.218:20049 - R:/192.168.184.218:53543] REGISTERED
+2022-11-09 17:46:13,314 [nioEventLoopGroup-3-2] DEBUG i.n.handler.logging.LoggingHandler [AbstractInternalLogger.java : 145] - [id: 0x981afa34, L:/192.168.184.218:20049 - R:/192.168.184.218:53543] ACTIVE
